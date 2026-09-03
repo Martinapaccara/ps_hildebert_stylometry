@@ -1,0 +1,153 @@
+default_palette <- c(
+    "#58A8E0FF",
+    "#3080C0FF",
+    "#484880FF",
+    "#E0B050FF",
+    "#780000FF",
+    "#F8E060FF",
+    "#C82818FF",
+    "#80C8F8FF",
+    "#024f19",
+    "#F85820FF",
+    "#E04020FF",
+    "#F8A858FF",
+    "#4eac6a",
+    "#987008FF"
+)
+do_bct <- function(
+    df,
+    fgcol = "#f6f5f5",
+    bgcol = "#1e1a1d",
+    palette = default_palette,
+    fontname = "Roboto Condensed",
+    fontsize = 13,
+    lim = 150,
+    highlight_nodes = c(),
+    number_nodes = c(),
+    legend_pos = c(
+        0.85,
+        0.94
+    ),
+    flip = FALSE) {
+    library(dplyr)
+    library(ggraph)
+    library(ggtext)
+    library(tidygraph)
+    library(showtext)
+    library(ggsci)
+    library(stringr)
+    library(paletteer)
+
+    sysfonts::font_add_google(
+        fontname,
+        "fnt"
+    )
+    showtext::showtext_auto()
+
+    # Seed for the layout
+    set.seed(42)
+    gr1 <- tidygraph::as_tbl_graph(df)
+
+    # Get unique work names for legend (strip chunk numbers from node names)
+    all_works <- gr1 %>%
+        activate(nodes) %>%
+        pull(name) %>%
+        str_replace_all("\\s[0-9]+", "") %>%
+        unique() %>%
+        sort()
+    legend_shapes <- ifelse(all_works %in% highlight_nodes, 17L, 16L)
+
+    # Plot
+    p <- gr1 %>%
+        # Add a node attribute called 'work' which is the poem name with
+        # no numbers eg Pont. 3 4 -> Pont.
+        activate(nodes) %>%
+        mutate(work = str_replace_all(name, "\\s[0-9]+", "")) %>%
+        mutate(highlighted = work %in% highlight_nodes) %>%
+        # Layout with Fruchtermann Reingold
+        ggraph(layout = "fr") +
+        # fan2 does curved lines when nodes are linked in both directions
+        # and also lets you interpolate colour along the edge
+        geom_edge_fan2(
+            aes(
+                # Aesthetically filter out noisy minor edges.
+                # This magic param is determined by experimentation
+                # and depends on the number of samples etc.
+                # Slightly hacky, but doesn't affect graph layout,
+                # just makes the visualisation cleaner.
+                filter = weight >= lim,
+                width = weight,
+                color = node.work,
+                alpha = weight
+            ),
+            strength = 2,
+            show.legend = FALSE
+        ) +
+        # All nodes
+        geom_node_point(
+            aes(color = work),
+            size = 2.2,
+            alpha = 1
+        ) +
+        # Highlighted nodes: outline triangle
+        geom_node_point(
+            aes(filter = highlighted),
+            size = 5,
+            shape = 17,
+            color = fgcol,
+            show.legend = FALSE
+        ) +
+        # Highlighted nodes: filled triangle
+        geom_node_point(
+            aes(filter = highlighted, color = work),
+            size = 4,
+            shape = 17,
+            show.legend = FALSE
+        ) +
+        geom_node_text(
+            size = 2,
+            family = "fnt",
+            aes(
+                filter = work %in% number_nodes,
+                label = str_extract(name, "\\d+")
+            ),
+        ) +
+
+        scale_fill_manual(values = palette) +
+        scale_colour_manual(values = palette) +
+        scale_edge_color_manual(values = palette) +
+        scale_edge_width(range = c(0.2, 4)) +
+        scale_edge_alpha(range = c(0.3, 1)) +
+        guides(
+            color = guide_legend(
+                ncol = 3,
+                byrow = TRUE,
+                override.aes = list(size = 4.5, shape = legend_shapes)
+            )
+        ) +
+        theme_minimal() +
+        theme(
+            panel.border = element_blank(),
+            panel.background = element_rect(fill = bgcol, color = bgcol),
+            plot.background = element_rect(fill = bgcol, color = bgcol),
+            legend.title = element_blank(),
+            legend.position = "inside",
+            legend.position.inside = legend_pos,
+            legend.spacing.x = unit(2, "mm"),
+            legend.spacing.y = unit(-1.5, "mm"),
+            axis.title.x = element_blank(),
+            axis.text.x = element_blank(),
+            axis.ticks.x = element_blank(),
+            axis.title.y = element_blank(),
+            axis.text.y = element_blank(),
+            axis.ticks.y = element_blank(),
+            text = element_text(family = "fnt"),
+            legend.text = element_markdown(size = fontsize, color = fgcol),
+            panel.grid.minor = element_blank(),
+            panel.grid.major = element_blank()
+        )
+    if (flip) {
+        return(p + ggplot2::coord_flip())
+    }
+    return(p)
+}
