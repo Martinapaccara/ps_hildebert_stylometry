@@ -1,0 +1,939 @@
+quidam NOUN NOUN VERB ADJ <EOL> NOUN ADJ VERB NOUN <EOL> qui NOUN plures VERB VERB ADJ <EOL> saepius ad NOUN quibus is VERB et NOUN <EOL> nil VERB VERB VERB ut VERB <EOL>
+quicquid et illorum sibi quis VERB NOUN <EOL> aut VERB NOUN -que suae VERB <EOL> non VERB quam ADV VERB <EOL>
+saepius in NOUN se pro NOUN VERB eisdem <EOL> seu NOUN seu NOUN seu quolibet NOUN <EOL>
+nil sibi NOUN VERB VERB male ADJ
+semper VERB VERB -que VERB
+ast NOUN horum NOUN sibi VERB <EOL> cum VERB VERB super hoc quid VERB ne -que VERB <EOL> nusquam ADV se VERB VERB VERB <EOL> NOUN VERB cunctis NOUN -que VERB <EOL> tandem de NOUN VERB VERB ADJ NOUN <EOL>
+nullus et hunc alius VERB nisi ADJ eius <EOL> qui VERB NOUN NOUN ADJ VERB <EOL> a NOUN sibi quem VERB VERB NOUN <EOL>
+ADJ ADV NOUN VERB at -que ADV
+NOUN NOUN sub NOUN VERB -que NOUN <EOL> NOUN NOUN ADJ sub se satis ADJ <EOL>
+ast VERB NOUN super et VERB <EOL> pro NOUN NOUN ADJ VERB ADJ <EOL> VERB NOUN VERB NOUN tenus NOUN <EOL>
+VERB et a ADJ sibimet ADJ NOUN NOUN <EOL> NOUN non tota ADJ NOUN NOUN ADJ <EOL> quae post ad ADJ uel ADV VERB ad ADJ <EOL> NOUN ADJ ADJ VERB -que NOUN <EOL> non ut NOUN ADJ tamen ut ADJ NOUN
+quam dum VERB NOUN quam NOUN VERB <EOL> ADV VERB NOUN NOUN -que VERB simul omni <EOL>
+VERB ADJ ut NOUN NOUN et ceu NOUN VERB <EOL> undique VERB hac sub NOUN totus <EOL>
+ad ADJ NOUN VERB NOUN VERB illi <EOL> qui VERB AUX ceu ADJ quem -que VERB <EOL> ad cuius NOUN nil VERB AUX VERB <EOL> e NOUN VERB ni NOUN ADJ VERB <EOL> ADJ ut VERB NOUN qui VERB in id AUX <EOL> ex NOUN VERB uel NOUN ADJ <EOL>
+quem super ut VERB NOUN altius ipse VERB <EOL> ceu VERB NOUN VERB fortiter illo <EOL>
+VERB hunc post mox NOUN in NOUN bene ADJ <EOL> NOUN quo non ADJ AUX alter <EOL> prae quo NOUN uel ADJ siue VERB <EOL> non VERB VERB se quin hanc mox VERB <EOL>
+ADV VERB VERB NOUN NOUN -que VERB <EOL> VERB NOUN NOUN VERB NOUN cunctis <EOL>
+VERB NOUN VERB VERB NOUN <EOL> VERB in NOUN ADJ ceu VERB NOUN <EOL>
+ast per NOUN post hunc VERB NOUN <EOL> NOUN at in NOUN VERB eius omnis NOUN <EOL> post hunc VERB VERB VERB VERB <EOL> cum plus non VERB hunc NOUN VERB <EOL>
+VERB NOUN qui tunc VERB NOUN <EOL> VERB NOUN VERB cito cuncti <EOL> quae VERB NOUN VERB ADJ NOUN NOUN <EOL>
+VERB eos male dum se VERB VERB
+non ADJ interea NOUN VERB uti -que NOUN <EOL> in -que NOUN se cum VERB plurima NOUN <EOL> VERB ADV quod nil VERB NOUN <EOL> et propter NOUN sibi multas undique VERB <EOL> a NOUN ADJ quod VERB VERB
+se cum VERB se ADV ADJ VERB <EOL> si NOUN ADJ VERB ei plus <EOL> AUX ADJ omnes ADV sibi NOUN <EOL> non VERB NOUN sed ADJ VERB <EOL>
+ADV VERB VERB ADV NOUN VERB <EOL> ut non VERB se nolitue VERB <EOL> sed sibi VERB NOUN quo VERB <EOL>
+VERB NOUN VERB sic ADJ <EOL> NOUN NOUN subito tunc VERB NOUN eius <EOL> is -que VERB eum VERB -que per ipsum <EOL>
+ADV AUX ADJ NOUN NOUN -que ADJ <EOL> ADV -que ADJ in NOUN ADJ <EOL>
+quem VERB NOUN quis et unde AUX VERB VERB quo
+quo sibi non VERB ADV -que VERB <EOL> VERB VERB uelut AUX NOUN NOUN -que VERB <EOL> AUX si NOUN ADJ AUX eius NOUN <EOL>
+dum VERB ad NOUN quis NOUN quis VERB NOUN
+ADJ AUX VERB VERB aut NOUN ADJ
+dum satis VERB demum sibi ADV VERB non VERB de me si plus VERB
+nam tibi VERB VERB si VERB nec VERB
+NOUN NOUN sibi ADJ AUX -que ADJ <EOL> nec VERB VERB quemquam ADV ac me
+pro NOUN ADJ NOUN si VERB <EOL> VERB et in hac NOUN mihi ceu tibimet ADJ <EOL> quid VERB NOUN -que tuas VERB <EOL> ADJ NOUN tibi tunc VERB non VERB
+NOUN VERB quoniam bene si VERB <EOL> o quam ADJ huc NOUN ADJ <EOL>
+VERB hanc NOUN NOUN hac et in NOUN ADJ
+quisquis VERB VERB quit qui non VERB hic VERB VERB quid
+si non ADV tamen ADV VERB ille
+numquam ADJ NOUN AUX uel NOUN
+cum VERB ei ADJ ADJ -que NOUN <EOL> nobis VERB NOUN quo NOUN VERB <EOL> qui ADJ et ADJ AUX nec VERB ADJ
+AUX cui maxime tunc NOUN illi VERB et illum <EOL>
+propter et NOUN numquam NOUN VERB unum
+nam sine NOUN VERB tibi cum VERB illa
+ad NOUN NOUN VERB ADJ <EOL> dum VERB nobis cum VERB VERB
+VERB quidquid ADJ AUX sibi VERB <EOL> id VERB nobis plus quam NOUN NOUN <EOL>
+si VERB cum me te ADJ NOUN VERB <EOL> VERB NOUN nostras VERB NOUN NOUN <EOL> VERB ut nil nos ADV ADJ nisi NOUN
+AUX ADV -que NOUN alterutrius uter -que <EOL> sic VERB ut ADJ melius si quid VERB illas <EOL>
+NOUN tum demum VERB sibi VERB ad illum sat mihi NOUN tuum VERB VERB ADJ <EOL> NOUN -que tuum non VERB VERB
+nam -que meas NOUN ut AUX tu VERB
+hinc NOUN NOUN VERB inter nos VERB
+VERB sibi NOUN ibi VERB mox -que ADJ <EOL> NOUN VERB sibi ADJ VERB NOUN <EOL> ADJ NOUN VERB NOUN ADJ <EOL>
+dum satis inter se de NOUN VERB <EOL> NOUN NOUN VERB VERB <EOL> in qua NOUN NOUN NOUN VERB VERB <EOL>
+NOUN VERB NOUN et NOUN VERB <EOL> ADV ad NOUN VERB VERB NOUN <EOL>
+ut NOUN NOUN VERB VERB ad illum unde VERB quid NOUN VERB VERB nobis
+VERB per NOUN quando VERB <EOL> NOUN siue NOUN VERB nos VERB post quem
+qui non ut NOUN sed ceu VERB NOUN <EOL> illorum neutrum sed eorundem NOUN <EOL> VERB VERB me cum tibi VERB <EOL> scilicet hunc NOUN tibimet VERB VERB <EOL> NOUN satis ADJ VERB sat -que ADJ <EOL> ut VERB utque suo mihi VERB in NOUN
+et cum VERB illum satis ipse VERB
+is sua VERB NOUN tibi ADJ nec VERB <EOL> in -que NOUN quo VERB VERB illum <EOL>
+qui NOUN NOUN VERB ADJ <EOL> cui AUX ADJ NOUN VERB NOUN <EOL>
+illius NOUN NOUN NOUN VERB AUX talem <EOL> NOUN VERB cum ADJ NOUN VERB <EOL> hinc NOUN VERB si VERB NOUN NOUN <EOL> et VERB NOUN quicun -que VERB ex his <EOL> NOUN quod VERB ADV supra sed NOUN VERB <EOL>
+inter NUM NOUN NOUN VERB ADJ <EOL> VERB NOUN quo NOUN NOUN ADJ <EOL> VERB ADV VERB NOUN sibi quis -que <EOL> quam qui VERB sub NOUN plus VERB VERB <EOL> sed quasi VERB NOUN ADJ VERB <EOL> undique VERB nec VERB se VERB
+ille sed in NOUN VERB NOUN NOUN <EOL> post NOUN NOUN VERB ad NOUN ADJ <EOL> quos NUM cum NOUN VERB sub NOUN <EOL> cum NOUN VERB ad NOUN VERB VERB <EOL>
+sic VERB sibi NOUN VERB -que NOUN
+tunc VERB NOUN NOUN VERB ADJ <EOL> ADJ NOUN NOUN VERB VERB <EOL> VERB melius hodie nos non VERB <EOL>
+NOUN aut NOUN hos VERB ue NOUN
+non sic VERB VERB NOUN sed VERB <EOL> NOUN e NOUN VERB ad nos sine ADJ <EOL> et super NOUN VERB NOUN VERB ADJ <EOL>
+dum sub NOUN VERB satis et VERB VERB <EOL> hos tandem NOUN VERB VERB NOUN <EOL>
+hoc VERB NOUN VERB VERB NOUN dum VERB
+PROPN NOUN NOUN VERB ADJ <EOL> VERB NOUN NOUN ad multas nimis ADJ <EOL>
+in ADJ NOUN VERB qui VERB eandem <EOL> ADV -que VERB quod is ADJ haud AUX VERB <EOL>
+NOUN eiusdem VERB PROPN idem <EOL> qui VERB in NOUN si forte NOUN VERB eandem <EOL> NOUN quod ADJ NOUN VERB ab ipso <EOL> et quidquid NOUN cum AUX sine NOUN VERB <EOL> huius si VERB quid mox NOUN cito VERB <EOL>
+NOUN NOUN cuius ADJ NOUN <EOL> in NOUN VERB plures NOUN ubi VERB <EOL> NOUN cum NOUN se cum VERB NOUN <EOL>
+quam VERB ADV ADJ sub NOUN NOUN <EOL> VERB NOUN VERB per NOUN -que NOUN <EOL> quam super VERB cum NOUN NOUN VERB <EOL> ambo -que VERB super NOUN uel VERB <EOL>
+ADV et ADJ NOUN VERB NOUN <EOL> nunc ADJ ADJ NOUN ADJ modo NOUN <EOL> VERB ut ADJ NOUN VERB VERB <EOL> quo dum VERB NOUN NOUN VERB <EOL> quam VERB in NOUN -que VERB <EOL> nec procul hinc VERB ambo quam NOUN VERB
+talibus et ADJ VERB NOUN ADJ <EOL> VERB sese cunctis VERB ut ADV <EOL> in ADJ NOUN NOUN dum VERB uel NOUN <EOL>
+alterius NOUN PROPN ualde ADJ <EOL> nostris a nostris is NOUN VERB et ipsis <EOL>
+ADJ -que VERB VERB quodcun -que VERB <EOL> NOUN VERB NOUN et VERB <EOL> VERB hinc illuc VERB -que suas VERB huc <EOL> NOUN VERB uel qui non AUX VERB <EOL>
+hic NOUN inter eos per multos VERB NOUN <EOL> donec NOUN AUX VERB NOUN NOUN
+NOUN NOUN nostri ADJ et NOUN <EOL> NOUN NOUN non VERB VERB <EOL> AUX ADV -que NOUN ut VERB ea non ibi ADJ
+quo VERB VERB ADJ NOUN repente
+quodam NOUN multo NOUN VERB <EOL> pro NOUN ADJ AUX VERB quia multi
+AUX VERB NOUN quia uestrum tam ADJ <EOL> haec quod non VERB tua ADJ NOUN VERB
+hinc VERB qualem nunc VERB NOUN
+NOUN VERB cum te VERB VERB <EOL> NOUN VERB per NOUN sat VERB <EOL>
+VERB cuncti cur haec VERB VERB
+NOUN VERB NOUN noster non ita VERB <EOL> aut se VERB uel VERB VERB quemquam <EOL> sed si VERB ADJ VERB <EOL> cum NOUN pariter quae VERB ambo ADV <EOL>
+VERB NOUN ADJ VERB quis NOUN
+AUX NOUN VERB ADJ VERB sed NOUN
+non NOUN AUX uobis VERB NOUN NOUN
+ADJ NOUN NOUN AUX si VERB NOUN
+hinc VERB VERB uestro quo VERB NOUN <EOL> solus ut iste NOUN nobis cum VERB ADJ <EOL> seu VERB ADJ seu quouis ADJ NOUN <EOL> ni VERB uobis sibi VERB ut NOUN unus <EOL> qui sibi VERB NOUN VERB VERB et ipsum <EOL> utque suam NOUN VERB prae se VERB <EOL> VERB in NOUN VERB uel quale NOUN <EOL> ne quicquam temere VERB tale VERB <EOL>
+tunc sibi VERB cuncti sua NOUN VERB
+et NOUN ADJ NOUN VERB VERB <EOL> et quamuis VERB sua VERB qualiter VERB <EOL> non VERB dum NOUN VERB <EOL>
+NOUN et NOUN alii NOUN -que ADJ <EOL> PROPN VERB ibi ADJ -que VERB <EOL> et VERB NOUN ADJ VERB -que cunctos <EOL> ADV VERB NOUN -que NOUN VERB <EOL>
+NOUN VERB NOUN qui cuncta VERB <EOL> quid VERB ut VERB NOUN utque VERB <EOL>
+qui VERB suum VERB sibi VERB NOUN
+ADJ hunc dum VERB NOUN de saepe simul VERB
+quem super VERB VERB VERB VERB <EOL> VERB VERB NOUN VERB NOUN <EOL>
+VERB NOUN NOUN NOUN ab ADJ <EOL> VERB NOUN VERB nimium VERB <EOL> ADJ quo VERB non ab NOUN sic VERB <EOL>
+VERB illi multi NOUN ADJ <EOL> VERB et NOUN quid VERB eum -que VERB <EOL>
+VERB omne ADJ nec plus ADJ ne -que multum <EOL> VERB NOUN NOUN NOUN VERB ad ipsum <EOL> VERB et ADJ NOUN ADJ tuorum <EOL> ADV VERB VERB VERB ADJ NOUN
+cui NOUN VERB VERB nostri AUX ergo ADJ <EOL> ADJ aut qui AUX in VERB VERB <EOL>
+nobis VERB VERB si AUX NOUN VERB
+NOUN ADJ VERB undique NOUN VERB VERB NOUN a te tale quid VERB
+VERB ADJ VERB quia nemo tuorum <EOL> cuncta -que nunc NOUN VERB ADJ non VERB <EOL>
+nunc NOUN VERB hoc per me uel VERB <EOL> de VERB quid VERB in NOUN quos VERB <EOL>
+trans hoc VERB nil AUX mihi NOUN tibi VERB
+NUM NOUN VERB NOUN NOUN VERB NOUN <EOL> VERB VERB NOUN nimis VERB <EOL> NOUN VERB ADV uel VERB NOUN ita de me <EOL> NOUN NOUN VERB uobis VERB et VERB
+cum uestris VERB sibi quam ADV VERB
+VERB ad NOUN NOUN VERB ad VERB <EOL> NOUN quae ADJ prius VERB VERB id NUM <EOL>
+ad VERB NOUN AUX ADJ ADJ NOUN <EOL>
+ut VERB NOUN VERB VERB ADV omnes
+illi VERB et in ADJ NOUN VERB
+tunc per NOUN NOUN VERB ad illos <EOL> uobis ADJ NOUN VERB VERB NOUN <EOL> non solum VERB sed VERB VERB NOUN <EOL>
+NOUN VERB VERB hunc quam citius VERB <EOL> VERB NOUN nec VERB ut ullum <EOL>
+nunc AUX NOUN nobis NOUN VERB <EOL> qualiter illius NOUN VERB <EOL> non solis NOUN quorum satis VERB <EOL> sed quid NOUN VERB ei ADJ <EOL> AUX ut NOUN NOUN NOUN VERB VERB <EOL> ADJ NOUN ADJ siue ADJ <EOL> ad quod quid mihi quis VERB VERB VERB <EOL>
+VERB pariter quod VERB id ualde ADV
+NOUN VERB eis NOUN et post haec VERB illis quid VERB AUX NOUN VERB primum
+AUX ibi NOUN cunctis VERB unus <EOL> quem NOUN aut NOUN a ADJ VERB ADV <EOL> non in NOUN VERB VERB ullo <EOL> VERB quem pro se VERB VERB VERB -que <EOL>
+in NOUN VERB qui VERB maxime VERB <EOL> eius NOUN solum VERB AUX VERB <EOL>
+NOUN mihi NOUN quoniam VERB VERB
+VERB ut huc VERB NOUN VERB -que VERB <EOL> utque VERB ab his si VERB neue VERB
+post hos VERB
+VERB quando sibi VERB <EOL> en NOUN uestri NOUN nostri uel NOUN <EOL> ADJ VERB NOUN NOUN ADJ <EOL> quam ADV VERB merito quos VERB VERB <EOL> VERB uel ADJ mihi contra se NOUN ADJ
+ADV nobis VERB sat NOUN
+quod VERB ADV hos VERB et me <EOL> si sic VERB per uos uelut ipse VERB
+VERB NOUN non AUX sic VERB <EOL> ut quid NOUN VERB VERB suorum <EOL>
+AUX quod VERB ADJ NOUN sibi VERB AUX ADJ
+NOUN VERB id quando uel ubi AUX VERB VERB tu
+hoc VERB AUX uestri NOUN NOUN VERB
+tu tamen in -que NOUN quo VERB in unum <EOL> ut NOUN inter nos VERB NUM per NOUN
+VERB VERB si VERB NOUN et si VERB istis <EOL> non tam VERB NOUN uestris NOUN ADJ <EOL> NOUN ut AUX ille quo nos VERB ante <EOL> inter NOUN nostri uestri -que ADJ <EOL> AUX ut ubi VERB uestri nostri -que VERB <EOL> VERB ibi nobis cum VERB
+omnibus ille NOUN AUX VERB ad hoc satis ADJ <EOL> NOUN ambobus VERB ADJ <EOL> NOUN -que NUM VERB ad id NOUN <EOL>
+post haec NOUN VERB sic NOUN -que VERB <EOL> in -que NOUN cum paucis VERB ADJ <EOL>
+VERB ualde ADJ VERB ADJ NOUN <EOL> qui NOUN VERB ADJ NOUN -que sibi VERB <EOL> quis VERB VERB ADJ NOUN quod VERB <EOL>
+NOUN VERB VERB -que NOUN VERB
+NOUN VERB VERB mihi VERB -que VERB <EOL> quae uobis VERB quae VERB non ut NOUN <EOL> sed ueluti NOUN ADJ NOUN VERB <EOL> qualis AUX in NOUN te talem VERB in NOUN <EOL> quae nobis VERB tua quod NOUN VERB <EOL> quae VERB NOUN NOUN NOUN VERB NOUN <EOL> ADJ VERB satis VERB ADJ NOUN <EOL> contra quae NOUN non VERB VERB ADJ
+sed tibi VERB AUX in VERB VERB <EOL> semper et ADJ NOUN ADJ VERB
+ut VERB quo VERB AUX VERB VERB <EOL> AUX quod VERB ADJ NOUN <EOL> ad NOUN in NOUN ADJ AUX quo tu VERB <EOL> VERB si quid AUX uestra NOUN at id VERB <EOL>
+uestris AUX VERB sic VERB nostris <EOL>
+VERB pariter VERB ADV nos VERB tibi semper cum NOUN ADJ
+tunc VERB cum rite VERB VERB
+inde VERB ADJ uelut AUX ADJ NOUN <EOL> a quo VERB AUX ualde VERB NOUN
+ex NOUN NOUN NOUN VERB illis <EOL> qui VERB quod NOUN AUX eis ut VERB <EOL> quod NOUN ADJ VERB NOUN -que ADJ <EOL> donec ADV uel eos VERB ADV <EOL> extra NOUN NOUN NOUN VERB
+quem bene VERB uel NOUN VERB <EOL> VERB VERB NOUN VERB quibus VERB <EOL>
+a se VERB AUX ad NOUN -que VERB
+utque NOUN VERB NOUN VERB VERB
+ut primum VERB bene quos VERB et VERB VERB NOUN nunc quid nobis VERB
+VERB NOUN quia ADJ AUX tibi PROPN <EOL> quod NOUN alii nisi ADJ non VERB NOUN <EOL> VERB NOUN id sponte tibi ADJ abs -que NOUN <EOL>
+nam per ADJ tibi quae AUX undique NOUN <EOL> VERB AUX NOUN VERB semper NOUN <EOL>
+quin ADJ NOUN tua -que NOUN <EOL> tu VERB melius NOUN quam VERB alius <EOL>
+nam -que NOUN NOUN quo VERB modo de te <EOL> VERB plus ab eis VERB seu VERB
+cum NOUN VERB <EOL> quae VERB sibi uel NOUN simul omni <EOL> primo NOUN post ADJ NOUN NOUN <EOL> VERB NOUN VERB VERB ADV <EOL>
+NOUN NOUN et VERB
+tunc VERB VERB donec NOUN ADV VERB <EOL> quantum ADJ VERB -que ADJ <EOL> at -que sui nostros VERB ADJ <EOL> VERB VERB VERB -que VERB <EOL> qualiter et nostri AUX illorum VERB <EOL> ADJ VERB VERB -que VERB <EOL>
+quos tibi cum VERB VERB se -que VERB <EOL> quam ADV eis VERB NOUN VERB <EOL> illos VERB VERB et bene VERB <EOL> NOUN NOUN ADJ <EOL>
+ipsos VERB VERB uel NOUN ad VERB
+non ut AUX VERB sub NOUN NOUN aut NOUN <EOL> nec VERB illos VERB quam NOUN NOUN <EOL> ut dum VERB super his ne forte VERB <EOL>
+quin ipsum NOUN NOUN hoc ADJ VERB <EOL> nulli VERB super hunc nulli bene VERB <EOL> sed sibimet VERB NOUN ADV -que VERB <EOL> ut nullus VERB quem NOUN sic VERB <EOL>
+VERB VERB te sed postquam sibi VERB <EOL> NOUN ADJ uel ADJ NOUN <EOL> quod tibi VERB sub NOUN tuo modo qui AUX <EOL> quos ADJ quamuis VERB NOUN <EOL> VERB VERB in nulla NOUN VERB <EOL> si VERB in NOUN NOUN ut VERB utrimque <EOL> sic VERB VERB uel NOUN VERB VERB <EOL>
+in cras VERB his ut VERB VERB
+in ADJ mane NOUN cuncti VERB <EOL> plures NOUN ADJ quam NOUN NOUN
+VERB qui quid VERB VERB <EOL> NOUN NOUN pro tali NOUN VERB <EOL>
+NOUN VERB VERB quid VERB
+AUX ADJ NOUN pro NOUN NOUN
+nobis interea VERB NOUN AUX sat ADJ
+dum VERB et adhuc NOUN VERB <EOL> VERB et post nos NUM omnes ut VERB <EOL>
+VERB ut VERB
+cum prae se VERB VERB <EOL> o nostri NOUN VERB ADJ -que NOUN <EOL> si VERB bene VERB uel ADV <EOL> NOUN ADJ at -que ADJ <EOL> AUX ut VERB nimium ADV VERB <EOL>
+VERB nunc illi de me de NOUN uel omni <EOL> de ADJ ADJ ADJ mihi NOUN VERB <EOL> ADJ uel ADJ NOUN NOUN <EOL>
+NOUN ADJ tua NOUN tua ADJ NOUN <EOL> intus ut VERB te sic foris undique VERB <EOL>
+VERB ADJ NOUN NOUN -que tibi nos <EOL> si VERB VERB nos pro NOUN VERB <EOL>
+VERB pro ADJ ADJ VERB satis NOUN ADJ
+nam quo VERB VERB plus inde VERB
+ADJ tuum VERB uel ADJ VERB <EOL> AUX tibi pro NOUN per nullum VERB <EOL>
+VERB VERB NOUN VERB VERB
+non ne VERB nobis merito VERB <EOL> VERB sponte VERB abs -que VERB <EOL>
+ADV nil nos ADJ VERB VERB <EOL> VERB sed ut is NOUN post quem sic VERB <EOL> nos VERB VERB NOUN uel NOUN
+utque diu VERB VERB VERB et VERB <EOL> nobis et cunctis ADJ undique NOUN <EOL> AUX VERB ADV at -que VERB <EOL>
+nam NOUN nostri tu solus AUX in NOUN PROPN <EOL> at -que VERB te bene VERB VERB <EOL> sub uestrae NOUN NOUN ADV ADJ <EOL>
+et nunc NOUN non VERB VERB <EOL> ad NOUN VERB quando AUX VERB
+uobis VERB de nostris ac VERB
+sic VERB et NOUN VERB nos sat ADJ <EOL> ADJ uel NOUN VERB siue ADJ <EOL> post VERB NOUN PROPN NOUN quod VERB <EOL> VERB nos NUM
+ADV NOUN VERB <EOL> quando uale VERB post nos VERB et VERB <EOL>
+hinc VERB NOUN post -que VERB <EOL> qui nos VERB NOUN simul et VERB <EOL> NOUN VERB NOUN ADJ nos VERB NOUN <EOL> tam tibi VERB VERB ut NOUN NOUN <EOL>
+sic VERB a cunctis sat ADJ NOUN nobis
+ADV noster NOUN uel ADV <EOL> VERB nobis in NOUN -que NOUN <EOL> huius dum NOUN NOUN VERB ADJ <EOL>
+talis NOUN NOUN talis VERB et NOUN <EOL> VERB ADJ nil VERB NOUN ADJ
+VERB VERB NOUN quo VERB VERB <EOL> nil VERB sibi sed ei VERB omnia VERB <EOL> NOUN quo AUX VERB ADV VERB AUX <EOL>
+NOUN cum VERB NUM NOUN AUX <EOL> hac in NOUN qua VERB ante <EOL> VERB nostros in NOUN VERB NOUN <EOL> AUX ubi VERB quo VERB VERB <EOL>
+sic de te NOUN tunc VERB VERB
+NOUN VERB hoc VERB NOUN ne -que VERB
+dum AUX at ibi quid VERB VERB VERB
+VERB ADJ mihi ADJ VERB NOUN <EOL> VERB multum NOUN ne VERB quem
+NOUN NOUN VERB me VERB crebro <EOL> nec VERB NOUN ni sponte VERB sibi solo
+NUM NUM NOUN sic me non VERB ante VERB
+VERB VERB meus NOUN quid eo AUX
+VERB nulla quod dum VERB NOUN <EOL> post me NOUN VERB sibi quae VERB satis VERB <EOL> in cras NOUN VERB uelut VERB <EOL>
+NOUN VERB NOUN VERB VERB sibi NOUN <EOL> et me contra se VERB in NOUN VERB <EOL> ut se cum VERB quod ego nimium VERB <EOL> VERB ADJ ADJ VERB NOUN
+et dum me VERB sibi non VERB VERB <EOL> VERB VERB VERB ab eo VERB <EOL> VERB de NOUN VERB quid VERB ADJ me <EOL>
+sed VERB NOUN quod mox VERB in me si NOUN VERB mihi quod NOUN VERB
+NOUN VERB VERB uelut at -que VERB non NOUN AUX ADJ super hac NOUN quid VERB
+si nunquam VERB VERB haut ego VERB <EOL> sed quam ADV VERB VERB VERB cum me <EOL>
+nam quos ADJ VERB VERB VERB NOUN
+statim NOUN et ego ADV VERB ambo <EOL> et sibi NOUN AUX mihi ter NOUN VERB <EOL> multis NOUN nimis id VERB eius <EOL>
+is mihi VERB sibi me VERB nil VERB <EOL> et VERB quae VERB NOUN quod non una VERB <EOL>
+plures VERB hunc VERB VERB <EOL> NOUN VERB mea NOUN VERB <EOL> VERB nil ADJ ADJ VERB bene NOUN <EOL>
+alterutrum -que VERB nimium -que VERB VERB <EOL>
+VERB ADV dum VERB <EOL> inter NOUN cito VERB quod eorum <EOL> hoc NUM et NOUN VERB nam VERB non plus <EOL>
+quae VERB mihi mox VERB VERB
+primo VERB ADJ nam -que VERB <EOL> sic me VERB uel eos per me VERB <EOL>
+VERB non VERB quicquam VERB VERB
+VERB inter nos cum AUX tu VERB uelut nos
+quando NOUN VERB ibi VERB quis ueluti VERB
+cum sat VERB quae VERB VERB <EOL> ADJ cum NOUN mihi NOUN VERB <EOL>
+NOUN VERB hunc NOUN tibi VERB semper VERB <EOL> quo AUX VERB tua tam bene NOUN <EOL>
+nunc NOUN VERB NOUN quod VERB bene nostras
+VERB et ad quos -que qui ADJ VERB <EOL> hos ut VERB ad NOUN uel sibi VERB <EOL> ipsis quos NOUN VERB VERB ut ADJ <EOL> ADV ADJ uelut ad ADJ NOUN VERB <EOL>
+VERB NOUN uelut ex NOUN unum <EOL> ADJ ADJ ADJ tot -que NOUN
+ADJ NOUN NOUN NOUN -que VERB <EOL> VERB sibi qua NOUN VERB NOUN NOUN
+VERB uel NOUN ADJ ADJ nimis VERB <EOL> ADJ NOUN ADJ NOUN -que VERB <EOL>
+et VERB NOUN ADJ VERB AUX per quam <EOL> in quouis NOUN ADJ siue NOUN
+NOUN uel NOUN sibi NOUN VERB ADJ
+qui VERB ei VERB utri -que NOUN <EOL> NOUN ualde ADJ semper -que ADV sibi ADJ <EOL>
+ADV ad NOUN sibi ADJ VERB NOUN
+VERB NOUN NOUN NOUN -que VERB <EOL> ad NOUN VERB quo NOUN quam bene VERB <EOL> et se cum VERB sibi quae uel NOUN NOUN AUX <EOL> ad NUM NOUN se cum seu plus VERB <EOL>
+illuc NOUN VERB VERB <EOL> NOUN -que ADJ NOUN bene VERB <EOL>
+NOUN ADJ NOUN AUX ADJ <EOL> in NOUN ADJ NOUN foris undique VERB <EOL> qua cum NOUN NOUN et NUM <EOL> VERB VERB cenareue sat ADV <EOL>
+NOUN ADJ VERB NOUN satis ADJ <EOL> NOUN ad NOUN de quo VERB NOUN <EOL> cuius ad NOUN VERB NOUN <EOL> in quo VERB NOUN VERB AUX uelut NOUN <EOL> quam super AUX VERB NOUN NOUN et NOUN <EOL> qua NOUN VERB VERB NOUN VERB <EOL> ADJ et ADJ NOUN <EOL> NOUN VERB aliis de NOUN ADJ <EOL>
+quo dum NOUN VERB NOUN ADV VERB <EOL> et per NOUN NOUN VERB eundem <EOL> qui AUX NOUN prius NOUN harum <EOL> primitus ut VERB sese quam NOUN VERB <EOL>
+quem NOUN ut VERB bene VERB VERB NOUN VERB -que sibi quid VERB
+post VERB illi <EOL> omne NOUN VERB tibi de me sat VERB <EOL>
+ad te me VERB NOUN et tibi VERB VERB ne VERB VERB prius illum quam VERB
+ADJ ad NOUN VERB is tibi nos VERB <EOL> NOUN ibi VERB NOUN omnis et VERB <EOL> VERB VERB VERB se neue VERB <EOL> nam VERB VERB non VERB <EOL>
+NOUN ita VERB VERB
+ad NOUN VERB VERB
+dum VERB NOUN ubi VERB <EOL> nil penitus VERB sibi quam prius NOUN VERB <EOL>
+noster NOUN ut idem VERB VERB omnes et post NOUN ex NOUN VERB omnes
+eius NOUN tunc VERB AUX NOUN ipsus
+NOUN NOUN NOUN NOUN et omnis <EOL> VERB NOUN uel ADJ alterutrius <EOL> dum VERB pariter NOUN ADJ VERB ADV <EOL> o nimium nobis NOUN ADJ cunctis <EOL> sicut VERB tibi VERB -que VERB <EOL> quicquid NOUN NOUN nostra VERB utrimque <EOL> hoc VERB et eosdem VERB <EOL> ut AUX inter se VERB sine NOUN <EOL>
+nemo VERB VERB quid VERB <EOL> VERB VERB nec VERB <EOL>
+nam NOUN VERB ADJ quam VERB VERB ADJ
+alter NOUN VERB huic ADJ VERB NOUN
+a nostro VERB VERB tamen AUX ita VERB <EOL> pro tot uel tantis NOUN nos NOUN <EOL> VERB ADJ non VERB tibi NOUN <EOL>
+in cuius NOUN ADJ tu VERB NOUN <EOL> ille tibi NOUN sat VERB et omnis NOUN <EOL>
+non NOUN AUX hinc te VERB uel VERB
+NOUN et NOUN nimis et tua ADJ NOUN <EOL> omnibus ADJ VERB tibi NOUN NOUN <EOL>
+ipsemet at -que mei tibi VERB VERB <EOL> ut NOUN VERB sub NOUN -que VERB <EOL>
+NOUN VERB hoc VERB ego dum VERB ne -que VERB <EOL> ut tibi quid NOUN aut VERB NOUN
+AUX NOUN sicut ego tibi me VERB VERB <EOL> eiusdem NOUN AUX cuius AUX uel NOUN
+ob quod VERB huc modo VERB id ADV <EOL> tu -que tuos VERB sed non sine quouis NOUN <EOL>
+sic VERB NOUN ADJ NOUN VERB <EOL> VERB VERB ueluti VERB VERB
+sic NUM nullum VERB eorum <EOL> quin AUX VERB uel NOUN ADV VERB <EOL>
+post VERB hi NOUN AUX quos VERB NOUN VERB <EOL> qui non ADV dum nobis VERB <EOL> nos VERB NOUN NOUN uel NOUN ADJ <EOL>
+qualiter ADV VERB quos NOUN VERB VERB quo VERB tibi quando NOUN VERB <EOL>
+nunc se VERB et AUX uelut ante AUX <EOL> ADJ NOUN ADV ADJ -que NOUN <EOL>
+quo VERB nempe NOUN VERB utrimque <EOL> per NOUN neutrim penitus VERB <EOL>
+tunc ambo NOUN VERB ad NOUN <EOL> cum -que suis VERB
+ibi ADJ NOUN VERB
+VERB quis -que suus ADJ VERB quod NOUN
+NOUN VERB VERB plurima NOUN <EOL> quae NOUN VERB uel eis hunc qui VERB <EOL> NOUN NUM NOUN VERB NOUN <EOL> ADV NOUN multum uel NOUN NUM <EOL> NUM NOUN totidem NOUN ADJ <EOL> inter NOUN NOUN ADJ bis VERB <EOL> et bis NUM NOUN totidem -que NOUN <EOL> at -que NOUN ADJ ADJ -que NOUN <EOL> et ADJ NOUN qui NOUN AUX ADJ <EOL> omnino ADJ NOUN NOUN -que ADJ <EOL> qui NOUN VERB ut NOUN NOUN -que VERB
+NOUN quando NOUN NOUN VERB VERB <EOL> illi VERB NOUN NOUN VERB <EOL>
+ADV VERB sese -que VERB <EOL> alterutrum NOUN se VERB VERB <EOL> VERB se VERB VERB se <EOL>
+cum NOUN ADJ VERB VERB NOUN <EOL> VERB et se NOUN VERB <EOL> quae ADJ NOUN VERB ADV <EOL> VERB -que suis harum NOUN ADJ <EOL> VERB VERB ADV NOUN VERB <EOL> ut VERB ibi ADV qui VERB <EOL> non VERB ADV -que ADJ VERB <EOL>
+ADV et NOUN de NOUN NOUN -que VERB <EOL> VERB NOUN ADJ quod non AUX NOUN <EOL> eius ab NOUN quia VERB ADJ NOUN <EOL> VERB NOUN NOUN ut ADJ <EOL>
+qualiter is VERB VERB quem VERB VERB
+ex NOUN NOUN tibi VERB VERB ADJ <EOL> in ADJ NOUN quos VERB bis in NOUN ADJ <EOL> fortiter VERB VERB quis VERB haut quos <EOL> in ADJ NOUN NOUN VERB VERB NOUN
+in quam VERB NOUN licet ADJ ue ADJ <EOL> ad ADJ -que NOUN VERB sibi bene VERB <EOL> et circa NOUN VERB VERB NOUN <EOL> VERB NOUN ne NOUN VERB VERB <EOL>
+ad VERB sibi sat VERB siue VERB <EOL> quod VERB at NOUN ADJ AUX ADJ VERB
+ADJ ADV dum VERB VERB VERB <EOL> VERB NOUN sed ut VERB VERB <EOL> et VERB in NOUN cito per NOUN VERB <EOL> quam dum non VERB VERB VERB VERB <EOL>
+si non VERB tamen hanc VERB -que VERB <EOL> VERB NOUN uel VERB ADV NOUN <EOL> VERB NOUN uel NOUN VERB ADV <EOL> et sic NOUN nimis in ADJ VERB NOUN <EOL> in -que NOUN NOUN per ADJ NOUN VERB <EOL> ADJ NOUN ad ADJ VERB NOUN <EOL>
+VERB NOUN quae NOUN NOUN NOUN <EOL> AUX VERB post VERB ADV VERB <EOL> NOUN in NOUN VERB VERB et omnes <EOL> quae ADJ NOUN VERB NOUN NOUN <EOL> quas VERB VERB NOUN NOUN <EOL> NOUN at VERB ADJ VERB NOUN <EOL>
+VERB NOUN licet illis nil AUX NOUN <EOL> NOUN NOUN ADJ VERB ADJ NOUN -que NOUN <EOL> NOUN -que ADJ NOUN VERB NOUN ADJ <EOL> in quibus ambabus nil VERB NOUN
+ex NOUN NOUN ADJ NOUN <EOL> VERB cum NOUN ADJ NOUN -que ADJ <EOL> NOUN ADJ VERB VERB NOUN <EOL> quicquid et VERB VERB quae VERB <EOL>
+NOUN cui -que sua NOUN VERB ADV
+ADJ NOUN NOUN NOUN VERB <EOL> VERB at -que NOUN NOUN prae post VERB <EOL> NOUN ADJ ADJ VERB NOUN <EOL> NOUN ADJ seu pelliciisue NOUN <EOL>
+his ita VERB ADJ VERB VERB is
+VERB VERB alter NOUN quando VERB
+post VERB VERB NOUN VERB -que VERB <EOL> cum -que quibus VERB ad NOUN tunc VERB <EOL>
+plures VERB et ei VERB VERB
+quem bene VERB NOUN at -que VERB VERB <EOL> qui VERB NOUN me cum VERB VERB <EOL> et non VERB quae NOUN ADJ tibi VERB <EOL> quicquid ADJ AUX et hic VERB VERB te cum <EOL>
+NOUN VERB id VERB NOUN alter NOUN VERB
+VERB iste suos NOUN VERB
+qui dum VERB uel coram NOUN VERB <EOL> ut NOUN eius AUX semper VERB VERB <EOL> quo suus AUX NOUN cuiuis quam NOUN ADJ <EOL> et nihil VERB sibi si quae NOUN VERB VERB <EOL> ne AUX NOUN NOUN uobis VERB ut eius <EOL>
+me cum nunc VERB quod ego VERB VERB
+VERB cum NOUN VERB AUX et ADV
+dum VERB ter VERB -que VERB <EOL> NOUN NOUN VERB se cum quos VERB -que VERB <EOL> in NOUN ADJ NOUN ADJ <EOL> in qua VERB NOUN ADJ NOUN VERB <EOL> in qua VERB et NOUN VERB ut NOUN VERB <EOL> VERB etiam NOUN VERB ADJ -que NOUN <EOL> VERB et ter ADJ ADJ NOUN VERB -que <EOL> VERB et ADJ NOUN siue NOUN <EOL> NOUN et VERB NOUN NOUN NOUN <EOL> NOUN cum NOUN VERB ibi -que ADJ VERB <EOL> VERB NOUN ADJ multo NOUN NOUN <EOL>
+quin ibi AUX et NOUN NOUN NOUN VERB <EOL> PROPN et NOUN NOUN picaue NOUN <EOL>
+tunc VERB haec NOUN tua AUX NOUN ADJ cuncta <EOL> NOUN AUX haec horum -que ADJ istaec <EOL>
+NOUN ter ADJ uni VERB VERB NOUN <EOL> in -que NOUN NUM VERB <EOL> NOUN NOUN totidem -que per NOUN <EOL> inter ADJ ADJ -que NOUN <EOL> NUM NOUN NOUN VERB <EOL>
+nec VERB NOUN quin hos quoque VERB
+inter eos ADJ VERB quoque NOUN <EOL> VERB ADJ NOUN cuiuis eorum <EOL> <EOL> et post NOUN VERB NOUN NOUN VERB <EOL> at -que suis ADJ cunctis NOUN VERB <EOL>
+post NOUN NOUN NOUN VERB et NOUN <EOL> ADJ NOUN NOUN ad NOUN ADJ <EOL> in -que suos NOUN NUM VERB
+ADV cunctis NOUN his ADJ <EOL> se VERB in NOUN VERB suum NOUN <EOL> illorum cuiuis NOUN hos -que VERB <EOL> NOUN NUM NOUN cuiuis et unam <EOL>
+VERB et ad NOUN NOUN NOUN NUM
+NOUN VERB aliis -que ADJ eius <EOL> eius NOUN qui AUX in ADJ <EOL> qui ueluti NOUN semper VERB NOUN ad NOUN <EOL> et pro NOUN VERB NOUN cuiuis <EOL> ADJ VERB ADJ NOUN ad NUM NOUN <EOL>
+inter quos illum NOUN ADJ <EOL> VERB ADV sic NOUN VERB eius <EOL> VERB qui AUX ad se NOUN -que VERB <EOL>
+NOUN dum VERB ea NOUN multumque VERB <EOL> VERB ad ADJ tua NOUN AUX ADJ multum
+ne tamen a nobis tantum VERB VERB <EOL> pro NOUN VERB VERB VERB <EOL>
+tam bene VERB NOUN hos VERB ADJ <EOL> at -que meae NOUN VERB NOUN -que VERB de te <EOL> et NOUN VERB tantas ceu cuncta VERB
+nec VERB NOUN NOUN quid NOUN VERB
+quod NOUN VERB aut NOUN istis <EOL> non contra VERB quia VERB id tibi uero
+hi AUX ADJ VERB ADJ <EOL> VERB et pro te ADV NOUN NOUN -que <EOL> et quod VERB illis VERB tibi NOUN NOUN <EOL>
+inter NOUN VERB plus NOUN ut VERB
+gratis an VERB VERB is NOUN <EOL> hi bene VERB ADV siue VERB <EOL>
+hoc super NOUN non VERB AUX VERB cuiquam <EOL> ADJ uel ADJ nec VERB quis eorum <EOL>
+NOUN inter se quando VERB VERB <EOL> NOUN VERB sibi VERB his VERB VERB <EOL>
+cum -que NOUN VERB NOUN ADJ -que VERB <EOL> PROPN ADJ NOUN VERB ADJ <EOL> ad sese VERB quendam bene VERB illum <EOL>
+ad quem sic VERB mea NOUN ADJ VERB AUX
+VERB VERB VERB et bene uel tibi VERB <EOL> istas NOUN melius quibus ac mihi VERB <EOL> VERB -que VERB ADJ VERB hanc VERB <EOL>
+quam super ut VERB VERB VERB haec ADJ VERB ergo tui NOUN cuncti tibi ualde ADJ ut VERB VERB
+nam te VERB VERB <EOL> NOUN tantis propter quos VERB <EOL> et NOUN in te non VERB VERB <EOL> donec e NOUN VERB VERB ADJ NOUN <EOL> VERB ubi multos te VERB NOUN <EOL>
+quod VERB nos ADV -que VERB <EOL> ad VERB uel ad NOUN ADV -que VERB <EOL>
+tunc in NOUN VERB ADJ AUX tibi nemo <EOL> qui uel tam iuste NOUN VERB tam uel ADV <EOL> et qui sic ADJ VERB siue NOUN <EOL> propter ADJ cum VERB ADJ <EOL> qui VERB nimium cum quando VERB <EOL>
+ergo tui cuncti cum AUX NOUN VERB <EOL> partim VERB partim NOUN VERB <EOL> illorum nulli tibi quod plus AUX VERB <EOL> PROPN VERB citius quia quo VERB VERB <EOL> ADV ut nos bene te cum VERB <EOL> VERB VERB tibi ADV quae VERB <EOL> non VERB ADJ pro nobis VERB -que NOUN <EOL> ast in NOUN ADJ huius VERB NOUN NOUN <EOL> mi NOUN ADJ ADJ NOUN VERB <EOL> quam sicut VERB VERB VERB <EOL> VERB ADJ NOUN VERB <EOL> in NOUN tuo simul in te NOUN ADJ
+dum me cum AUX NOUN cuncta mihi VERB <EOL> cum VERB NOUN mihi VERB
+sed tamen utcum -que VERB VERB <EOL> ADV ADJ dum VERB VERB NOUN <EOL> prae tot tam ADJ tibi tam ADJ NOUN <EOL>
+qui quia AUX cuncti VERB siue VERB <EOL> NOUN PROPN VERB NOUN NOUN VERB NOUN <EOL> NOUN VERB tuo NOUN VERB <EOL> non solum -que tuos sed omnes NOUN <EOL>
+omnibus VERB NOUN nimis VERB <EOL> pro sola NOUN NOUN VERB NOUN <EOL>
+id VERB NOUN NOUN NOUN <EOL> ultra ADJ nimium VERB NOUN ADJ <EOL> ille -que non solum quin quod AUX NOUN <EOL> VERB ubi uel VERB simul ADV VERB <EOL>
+VERB quod nunquam VERB huic ADJ quem <EOL> NOUN NOUN NOUN uel in NOUN <EOL> quod nec VERB ulli sed ubi quit VERB omni <EOL>
+at qui NOUN eius VERB ADJ <EOL> VERB quid ADJ sibi si nunc AUX ADJ <EOL> nil VERB ni ADJ VERB VERB <EOL> NOUN uel NOUN nullum ADJ NOUN <EOL> huius cum NOUN NOUN ADJ AUX omnis <EOL>
+qui sibi ADJ se cum VERB NOUN <EOL> ad NOUN VERB prae quo sic VERB VERB si NOUN VERB tibi uel AUX non ADJ VERB <EOL> quod nimis VERB me tibi VERB VERB <EOL>
+NOUN VERB VERB ADJ VERB ad id me
+ille NOUN NOUN VERB NOUN VERB his <EOL> post -que VERB uix VERB ista VERB <EOL> quid mihi NOUN AUX melius NOUN ipse VERB <EOL>
+sic VERB in -que NOUN VERB NOUN sibi VERB
+NOUN VERB his VERB nunc VERB satis istis
+quae tibi VERB NOUN si sic ea VERB <EOL> ADJ VERB VERB quin neue VERB <EOL>
+at -que tuae NOUN nimis AUX NOUN ADJ
+hinc omnino tibi modo VERB VERB <EOL> quin VERB ad eam uel VERB eandem <EOL> VERB -que tuos VERB te sat ADJ <EOL>
+quando VERB VERB nobis cum sed tamen AUX <EOL> istius NOUN NOUN
+VERB prius VERB <EOL> quam VERB quid NOUN tibi VERB <EOL>
+nobis VERB quam ADV VERB
+non VERB VERB id nos sed VERB <EOL> et tibi VERB te saepe NOUN VERB <EOL> pro me pro NOUN pro cuncto denique NOUN <EOL>
+NOUN at VERB NOUN VERB -que VERB <EOL> eius NOUN paucis VERB et illi <EOL> quod tibi VERB mihi quam bene VERB
+huc postquam VERB ADJ NOUN tibi me -que VERB <EOL> NOUN AUX te cum mihi semper ADJ <EOL> semper VERB multum uel NOUN siue ADJ <EOL> a te non solum sed ab unoquo -que tuorum
+NOUN VERB interea VERB ADJ NOUN <EOL> ut ADJ NOUN per NOUN ADJ <EOL> non nisi bis ADJ NUM ADJ tot at -que ADJ <EOL> quando VERB ceu NOUN AUX VERB <EOL> extra ADJ si AUX VERB NOUN <EOL>
+quorum NOUN NOUN unum NOUN <EOL> VERB VERB quos VERB VERB <EOL> et sic ADV VERB quod VERB unum <EOL> plus cum NOUN ne VERB forte VERB <EOL>
+quando NOUN VERB NOUN inde suas VERB <EOL> at -que suos NOUN VERB sibi VERB ADJ <EOL> ut sibi VERB VERB VERB NOUN ADJ <EOL> altera VERB NOUN in NUM sicque VERB <EOL>
+ex una NOUN NOUN NOUN VERB <EOL> ex NOUN VERB et in NOUN sat VERB <EOL> a PROPN PROPN quibus NOUN VERB <EOL> AUX quibus VERB ADV ADV VERB <EOL> istac NOUN illac NOUN -que NOUN <EOL> VERB NOUN VERB quem VERB VERB <EOL> quos VERB VERB NOUN et NOUN <EOL> ad VERB NOUN AUX ADV hunc AUX ADJ <EOL> NOUN -que ADJ non illum VERB <EOL> sed VERB uel NOUN NOUN VERB <EOL> citra ADJ NOUN NOUN ita VERB <EOL> bis NUM NOUN VERB NOUN ADJ <EOL> ex quibus ADJ ADJ non AUX VERB <EOL> NOUN VERB ceu NOUN VERB <EOL> NOUN quae sibi VERB sic se nec VERB VERB <EOL> quarum quae -que ADJ ADJ NOUN VERB NOUN <EOL>
+bis ADJ reliquae VERB AUX ADJ <EOL> quae -que VERB NOUN uelut NOUN VERB <EOL>
+non in iis NOUN plus quam VERB NOUN <EOL> et super VERB his NOUN NOUN ADJ <EOL> in NOUN VERB non NOUN VERB <EOL> ADJ nullo ADV NOUN <EOL> per totum ADJ non omnino -que VERB <EOL> in ADJ cuius NOUN VERB NOUN VERB <EOL> eius et in NOUN NOUN VERB ADJ ADJ <EOL> in qua VERB VERB NUM NOUN <EOL> VERB ceu ADJ VERB VERB -que VERB <EOL>
+ADJ hanc NOUN per NOUN NOUN VERB <EOL> quae tam ADJ AUX sibi NOUN quod bene VERB <EOL>
+ADJ AUX merito sic NOUN VERB NOUN <EOL> VERB NOUN alias in VERB ADJ <EOL> quauis et in quatum NOUN ADJ <EOL> NOUN AUX ADJ uelut VERB ibi NOUN <EOL> quarum quae -que NOUN NOUN VERB ADJ <EOL>
+non ADJ NOUN ADJ VERB NOUN <EOL> VERB his ADJ quam VERB ADV <EOL> NOUN cum qua VERB ne VERB ADJ <EOL> NOUN ne VERB VERB ADJ si AUX <EOL> ex NOUN NOUN ADJ super VERB unam <EOL> VERB NOUN NOUN in qua VERB NOUN <EOL>
+in NOUN AUX in NOUN VERB <EOL> VERB NOUN ADJ ADJ <EOL> VERB de NOUN in ADJ NOUN ADJ <EOL> NOUN VERB NOUN de NOUN VERB <EOL>
+AUX in NOUN ADJ NOUN VERB
+VERB NOUN NOUN VERB NOUN <EOL> VERB NOUN uel NOUN uel NOUN <EOL>
+NOUN ADJ primo VERB ADJ <EOL> cum NOUN uel NOUN VERB NOUN ADJ <EOL>
+id NOUN NOUN ADJ VERB ADJ
+ast in VERB post NOUN NOUN NOUN <EOL> VERB NOUN ADJ se VERB NOUN <EOL> hanc NOUN NOUN caute NOUN VERB VERB <EOL> qui post ADJ in NOUN VERB NOUN <EOL>
+NUM ex illis VERB VERB NOUN <EOL> et NOUN ADJ NOUN at -que NOUN <EOL>
+NUM ADV aliae non AUX NOUN VERB <EOL> NOUN VERB ADJ NOUN VERB <EOL> sicut NOUN quis NOUN VERB NOUN
+NOUN cum NOUN VERB cum se VERB NOUN <EOL> tandem ter ADJ VERB VERB ADJ <EOL> ex NOUN ADJ VERB non melius quo <EOL>
+in quorum quem -que VERB VERB VERB <EOL> ADJ uel NOUN pulchrumue NOUN <EOL> quorum NUM NOUN VERB AUX VERB <EOL> non ADJ ADJ quos VERB VERB NOUN <EOL> NOUN VERB his NOUN ADJ <EOL> at ADV VERB NOUN ADV NOUN <EOL> has VERB VERB NOUN NOUN ualde ADJ <EOL> NOUN VERB multo NOUN VERB <EOL> ut non VERB nec NOUN VERB hoc VERB <EOL>
+quando NOUN VERB ad quam NOUN VERB <EOL> quod VERB ei ADV VERB NOUN <EOL> VERB NOUN noster NOUN ADJ <EOL> VERB VERB NOUN NOUN VERB NOUN <EOL> pro quorum NOUN NOUN VERB ut VERB ipsa <EOL>
+en hic AUX NOUN
+nunc uos VERB quid illa <EOL> VERB
+sic VERB et eam ADJ VERB
+NOUN VERB VERB ibi ADJ NOUN <EOL> VERB tam ADJ tam ADJ tam -que ADJ <EOL> tali NOUN NOUN sese -que VERB <EOL>
+et NOUN VERB hunc NOUN NOUN seu VERB <EOL> NOUN sibi VERB et NOUN hunc VERB <EOL> VERB ADJ NOUN quouis eundem <EOL>
+NOUN VERB VERB ut is de me VERB NOUN <EOL> a quo AUX numquam ADJ VERB in NOUN <EOL> quin VERB me ADJ VERB ut NOUN <EOL> totius NOUN ADJ se VERB in omni <EOL>
+nam sic NOUN ADJ AUX sibi NOUN ADJ <EOL> qualiter in quoquam non hoc VERB VERB <EOL>
+nunc VERB et eum VERB VERB
+has VERB NOUN si post sua sic VERB NOUN <EOL> quod non AUX ADV VERB huc bene VERB VERB <EOL> VERB ADJ ut apud nos NOUN
+sic VERB et NOUN VERB ad se quo VERB illum
+is VERB VERB hunc
+ad NOUN VERB is illuc
+dum ADJ VERB ADV NOUN sibi VERB te nimis ADV mi NOUN VERB de me
+semper ADJ AUX et in omni VERB
+hinc VERB NOUN tibi ADJ ADJ
+ADJ AUX nulli sed NOUN ADJ AUX omni
+nunc mihi VERB ADJ ADJ NOUN <EOL> NOUN VERB tibi NOUN ADV NOUN <EOL>
+is VERB NOUN sibi quid VERB ADV non VERB quod VERB VERB NOUN NOUN <EOL>
+NOUN VERB multos ubi VERB VERB
+NOUN ADJ VERB plures AUX NOUN
+in NOUN VERB NOUN uel NOUN <EOL> uel NOUN VERB NOUN quo NOUN VERB <EOL>
+AUX melius NOUN VERB quis quam quoque NOUN <EOL> et quicum -que ADJ VERB VERB NOUN <EOL> ille uel NOUN semper sat VERB et NOUN <EOL> quae VERB VERB quia NOUN intus VERB <EOL>
+at VERB multos VERB ADV ADJ <EOL> qui NOUN cunctis per NOUN VERB <EOL> VERB ADJ ADV VERB <EOL> quos non VERB sed NOUN VERB VERB <EOL>
+unde VERB ADV me NOUN tale VERB <EOL> quod si VERB quod id ipsum non VERB <EOL> tam ADJ quod AUX ceu NOUN NUM mihi quis VERB <EOL>
+nemo mihi VERB id inimicaturue nec VERB <EOL> propter id et NOUN me non VERB in ADJ <EOL>
+in NOUN NOUN NOUN VERB ut AUX ADJ <EOL> ADJ NOUN sat VERB si NOUN VERB NOUN -que VERB <EOL>
+non VERB NOUN VERB VERB NOUN
+hoc NOUN VERB me cum VERB VERB VERB <EOL> in NOUN -que VERB nullum se cum -que VERB <EOL>
+NOUN VERB pro se tunc ADJ VERB NOUN <EOL> VERB in ADJ nunc VERB NOUN ab ADJ <EOL> quae tibi VERB ceu ADJ NOUN NOUN
+non tibi AUX ADJ umquam ADJ NOUN
+si VERB is VERB non AUX NOUN VERB
+nam ADJ ADJ sibi VERB ADJ NOUN
+tam ADJ haut AUX aliqua NOUN quin in eo AUX <EOL> quam VERB VERB quin ex hac VERB <EOL>
+nam VERB NOUN uix VERB ad NOUN
+quamuis ADJ per NOUN AUX NOUN VERB <EOL> numquam VERB NOUN quo per NOUN VERB <EOL> ne male VERB VERB -que tuis ibi NOUN <EOL> VERB per quem NOUN VERB ADJ <EOL>
+quo VERB ADJ quod VERB ADJ NOUN <EOL> NOUN VERB tibi non VERB VERB
+in te nam ADJ VERB ADJ NOUN
+hic VERB haec VERB NOUN inter eos ita VERB <EOL>
+ast ubi NOUN ADJ ADJ VERB ADJ NOUN VERB
+non hic VERB haec nec VERB te <EOL> tunc ibi ADV VERB sine NOUN <EOL>
+VERB ad VERB si te VERB NOUN <EOL> ut VERB ADJ VERB NOUN NOUN <EOL> VERB VERB ni VERB hanc VERB <EOL>
+nam VERB NOUN si VERB NOUN
+non tibi tam ADJ AUX NOUN tuus ullus <EOL> ADV hunc saepe VERB VERB VERB <EOL> plus -que VERB ADJ quam ADJ AUX ADJ <EOL> nam cito VERB NOUN quodcum -que ADJ VERB <EOL>
+NOUN ADJ quamuis nimium ADJ <EOL> non uelut NOUN VERB tibi ADJ <EOL> ne VERB te tibi VERB ADV <EOL> neue VERB se NOUN VERB VERB <EOL> si VERB ad NOUN siue VERB <EOL>
+te cum VERB ADV tecumue VERB <EOL> continuo NOUN cunctorum VERB AUX ADJ
+talia ADJ VERB ADJ
+si VERB NOUN VERB ADJ <EOL> NOUN ADJ VERB NOUN <EOL> tunc ADJ VERB tibi NOUN <EOL> et nusquam NOUN tibi ni quo VERB <EOL>
+quam dum VERB VERB ADV ut VERB <EOL> VERB ADV
+illi tamen AUX NOUN <EOL> NOUN cum te ne quod VERB VERB
+nam NOUN nullum ADJ VERB AUX NOUN <EOL> quam si VERB AUX quis VERB VERB
+et licet in cunctis bene VERB tibi NOUN <EOL> numquam VERB tuum VERB sibi VERB totum <EOL> a te VERB si post pro NOUN ADJ <EOL> VERB VERB ut nil tibi VERB VERB <EOL> unde NOUN uel NOUN inter uos quid VERB <EOL>
+nulla ADJ tibi tam ADJ VERB NOUN <EOL> quin VERB NOUN VERB <EOL> maxime cum ADJ NOUN AUX non ut tibi VERB <EOL> forsan cras VERB NOUN quod NOUN VERB <EOL>
+nunquam cum NOUN tibi NOUN AUX siue NOUN
+nam -que NOUN si non iuste VERB te
+nec quid eis VERB ADV id quia VERB <EOL>
+cum VERB ut VERB AUX tunc ADJ sibi quo VERB <EOL> VERB NOUN quia tantundem tibi per quam <EOL> VERB
+ADV -que VERB nec NOUN nec NOUN VERB
+NOUN VERB VERB cum VERB a se <EOL> tunc VERB NOUN VERB quod VERB <EOL> ADJ cum NOUN ADJ VERB tua NOUN <EOL>
+et numquam AUX NOUN quoquam tibi tam properanter <EOL> ut VERB quin NOUN ubi VERB <EOL> ADJ VERB illis te uel VERB <EOL>
+ADV VERB aut si quo NOUN VERB <EOL> VERB ab NOUN VERB ADV illo <EOL> ADJ NOUN quo VERB VERB <EOL>
+hoc NOUN haut VERB penitus tibi quin VERB <EOL> ADV et VERB NOUN minus at -que VERB <EOL>
+VERB numquam si te VERB NOUN quisquam <EOL> VERB NOUN ADJ NOUN VERB PROPN <EOL> non ea nam VERB sua sed NOUN VERB <EOL>
+si tibi AUX NOUN prope NOUN ADJ <EOL> non VERB NOUN NOUN ADJ <EOL> in NOUN ne VERB
+nam NOUN VERB <EOL> VERB VERB utrimque per ADJ NOUN VERB <EOL>
+si non VERB NOUN minus hinc VERB <EOL>
+dum NOUN VERB NOUN NOUN -que VERB <EOL> ambo VERB NOUN in -que NOUN VERB <EOL> et VERB cunctis NOUN NOUN eius <EOL> <EOL> qui NOUN NOUN NOUN VERB et omni
+ADV NOUN VERB VERB
+NOUN VERB VERB NOUN cunctorum ADJ NOUN <EOL> at -que VERB NOUN totam -que tuam pariter NOUN <EOL> si VERB in NOUN tamen AUX tua uelut ista <EOL> VERB si -que VERB NOUN quae VERB AUX <EOL>
+qui si VERB te VERB ut VERB et a te nec VERB eis ADV VERB ab illis
+nulli NOUN ADJ nimis aut ADJ
+si tibi VERB NOUN tuus unde VERB <EOL> VERB ut NOUN ADJ te si VERB me <EOL> eiusdem VERB contra te VERB me <EOL> quo nunc te VERB
+NOUN non huius VERB
+post VERB NOUN prae se VERB NOUN <EOL> et sibi ADV de NOUN VERB in NOUN <EOL> illuc ut NOUN NOUN VERB illas <EOL> in quibus hi NOUN AUX intus ADJ <EOL> NOUN VERB foris intus ADJ <EOL>
+VERB VERB NOUN VERB mi ADJ NOUN <EOL> hos ADJ NOUN numquam ADJ VERB <EOL> primitus ad NOUN VERB quam tam tibi ADJ <EOL> cuius in NOUN solius VERB ADJ
+cum VERB VERB cum NOUN VERB ADJ
+hinc et VERB quantum NOUN VERB NOUN <EOL> ut VERB qualis noster VERB AUX NOUN
+at -que VERB NOUN NOUN ter sibi VERB cum NOUN VERB
+NOUN VERB VERB
+quem VERB cunctus ad NOUN NOUN ADJ <EOL> cum -que VERB sibi VERB NOUN VERB <EOL>
+inde VERB solo VERB NOUN <EOL> ADJ NOUN qui VERB ADV ADJ <EOL> VERB NOUN ADJ NOUN VERB
+inter VERB VERB ADJ NOUN NOUN <EOL> tam ADJ tunc NOUN quod VERB alterutrius
+nam non ni NOUN simul VERB VERB
+ad NOUN ADJ VERB VERB NOUN
+post NOUN VERB ambobus NOUN <EOL> postquam VERB VERB VERB NOUN <EOL> VERB VERB VERB VERB VERB <EOL>
+ut NOUN ille magis VERB se VERB NOUN <EOL> a sibi tam ADJ quod VERB NOUN
+VERB an hunc umquam AUX VERB in NOUN
+ADJ ADJ VERB VERB VERB NOUN <EOL> ni cito quod NOUN NOUN VERB VERB eius
+cum -que VERB ambo simul VERB <EOL> VERB VERB se VERB et VERB <EOL> ADV et VERB donec NOUN VERB <EOL> alterius NOUN qua AUX ADV VERB <EOL>
+ADV et ut VERB prae NOUN uix sibi VERB <EOL> PROPN meo NOUN de ADJ NOUN ue ADJ <EOL> VERB VERB NOUN uel VERB NOUN <EOL> omnibus at -que suis mihi ceu NOUN semper VERB
+NOUN dum sibi VERB ambo nimis ADV VERB <EOL> ADV -que VERB VERB sat ADV <EOL> VERB a se sic in sua ADJ uter -que <EOL>
+utque suae NOUN iam VERB VERB <EOL> PROPN eum VERB ac VERB se sibi VERB <EOL>
+quando VERB hunc unde VERB VERB <EOL> VERB quo VERB NOUN eius si AUX VERB
+sat ADV VERB ei ADV <EOL> AUX NOUN ADJ quo VERB VERB VERB <EOL>
+PROPN NOUN VERB VERB multas <EOL> quamquam NOUN de NOUN non VERB ullum
+VERB NOUN cum VERB suam VERB in se <EOL> ad NOUN post se NOUN VERB ille VERB <EOL>
+PROPN ut VERB hanc tota NOUN VERB
+VERB VERB ad NOUN uel NOUN VERB
+VERB NOUN ceu VERB NOUN <EOL> ad se NOUN ADV VERB inde -que NOUN <EOL> hanc -que sub NOUN VERB us -que VERB ab NOUN <EOL>
+tunc VERB ab NOUN VERB hanc VERB NOUN <EOL> cum VERB post hunc uelut VERB <EOL> NOUN quae -que NOUN NOUN an VERB eorum <EOL>
+tunc ad se VERB et VERB sibi VERB <EOL> ADV non ne ADJ mihi VERB VERB <EOL> in NOUN NOUN
+VERB quod non VERB quam
+cui NOUN VERB AUX ADJ me sed ubi AUX
+PROPN VERB sub NOUN quid VERB VERB
+sic ubi VERB ibi forsan VERB
+ergo VERB hanc si VERB VERB
+VERB NOUN VERB VERB sibi ceu ADJ AUX
+NOUN tunc NOUN VERB VERB <EOL> per quam NOUN VERB sat ADJ ADJ <EOL>
+haut in NOUN quiuis VERB his VERB NOUN <EOL> nec VERB NOUN prope NOUN tam ADJ <EOL> quis -que VERB VERB ni NOUN ADJ AUX <EOL> quem sat VERB NOUN -que NOUN VERB <EOL> uix VERB in NOUN ne VERB <EOL> NOUN at AUX NOUN e NOUN per NOUN VERB <EOL> qui VERB NOUN
+NOUN ADJ VERB eundem <EOL> VERB NOUN NOUN non VERB VERB <EOL> VERB NOUN nullam tam ADJ uel ADJ <EOL>
+ADV cum VERB VERB cui non VERB <EOL> AUX quia ualde ADJ ADJ NOUN VERB <EOL> VERB quem -que suum super hoc -que VERB NOUN <EOL>
+e NOUN NOUN ADJ satis VERB ADJ <EOL> non VERB VERB quam AUX VERB <EOL> ADJ n
+NOUN quia VERB VERB cunctos
+NOUN VERB sibi quid ADJ AUX nam VERB
+ad NOUN VERB ubi VERB VERB
+NOUN VERB PROPN VERB NOUN -que VERB
+PROPN NOUN VERB unum VERB <EOL> illuc qui VERB quem ADJ mox VERB VERB ADJ mihi NOUN ADJ
+AUX hic quis NOUN nostri AUX qui VERB NOUN
+NOUN VERB multi AUX hic quos non VERB <EOL> sat VERB si NUM NOUN NOUN VERB unum <EOL> quin his VERB VERB omni sub NOUN <EOL>
+AUX NOUN ADJ VERB qui ADV <EOL> uobis VERB uestros et NOUN VERB
+multi AUX VERB licet NOUN VERB <EOL> inter eos omnes non VERB VERB <EOL> tam bene ceu ADJ uel uti ADJ NOUN illius <EOL>
+PROPN VERB ADJ quid VERB ADJ ADJ
+NOUN ADJ NOUN VERB VERB ADJ
+PROPN VERB nusquam melius VERB ad ullam
+ADJ AUX nimium prius is quam VERB illam
+nunc VERB ei VERB cui NOUN NOUN <EOL> ac ueluti ADJ AUX nam ADJ at -que ADJ <EOL> NOUN AUX -que NOUN qui sic VERB ADJ <EOL>
+tunc VERB NOUN quae te VERB VERB mihi VERB qualiter VERB ADJ ADJ quia VERB <EOL>
+tunc VERB PROPN NOUN VERB VERB mihi non ne NOUN ADJ ADV NOUN VERB NOUN NOUN <EOL>
+NOUN <EOL> quem prius haec VERB se cum ADV VERB <EOL>
+nam AUX ADJ ADJ ADV ADJ
+nunquam VERB VERB neue VERB
+quid VERB NOUN uel NOUN AUX uel NOUN uix
+NOUN VERB quantum cuius -que sibi AUX <EOL>
+ADV tamen NOUN ADJ VERB uteruis <EOL> NOUN VERB ADJ ADJ -que VERB <EOL> quicquid VERB VERB NOUN caute -que VERB <EOL>
+ADJ is huc VERB NOUN ADJ uel ADJ <EOL> VERB ad hunc primo NOUN VERB ab illo <EOL>
+qui sibi NOUN ADJ uix VERB unam
+hanc dum VERB ADV VERB et VERB
+NOUN VERB VERB VERB NOUN <EOL> ne VERB NOUN catulusue VERB illa <EOL> ADJ ac VERB post in NOUN VERB <EOL>
+NOUN in NOUN VERB VERB NOUN <EOL> ut sibi VERB cum VERB ADV VERB <EOL> VERB NOUN cum NOUN ue cum NOUN
+si bene VERB quid non AUX VERB hinc id <EOL> seu AUX NOUN seu NOUN seu quid -que NOUN
+haec VERB in NOUN ADJ si non VERB NOUN
+nil VERB ADJ quod NOUN AUX VERB <EOL> NOUN sicut NOUN VERB NOUN ue NOUN <EOL> VERB NOUN quibus VERB NOUN <EOL> quae VERB sponte sibi nemine VERB <EOL>
+si quid alius AUX NOUN id ADV VERB
+et cum per NOUN VERB sic apud illum <EOL> is nisi NOUN sibi nil VERB ad VERB <EOL>
+cum -que ADV NOUN VERB VERB <EOL> VERB ei VERB alio VERB <EOL>
+ille sibi VERB hunc cum VERB VERB <EOL> nunc hic AUX NOUN ADJ ADV uel NUM <EOL> alterutrum nostros NOUN donec VERB <EOL>
+VERB NOUN mox VERB sibi NOUN <EOL> VERB mane VERB sibi sero VERB et alter
+interea VERB hunc si quam VERB NOUN <EOL>
+NOUN quam VERB VERB VERB ADJ <EOL> quam quod VERB NOUN VERB VERB plures <EOL> ADJ ex NOUN ex NOUN siue NOUN <EOL> ad quae nil nisi NOUN VERB modicumue NOUN <EOL> et tantum NOUN VERB ut NOUN NOUN <EOL>
+AUX aliud NOUN nobis omnino ADJ <EOL> quod non VERB VERB de me tibi VERB
+VERB VERB id quid AUX non VERB
+NOUN VERB <EOL> en uelut AUX cunctis ADJ satis AUX VERB <EOL> et tuus AUX NOUN NOUN omnis ADJ <EOL> NOUN ADJ ADJ NOUN uel ADJ <EOL>
+si VERB mihi VERB cuius -que NOUN <EOL> uel NOUN uel NOUN NOUN VERB <EOL> tot bene VERB VERB tibi NOUN <EOL> NOUN VERB NOUN uel NOUN VERB <EOL> et VERB aliquas NOUN VERB <EOL> at -que NOUN NOUN alios uti VERB
+haec VERB NOUN non VERB tibi NOUN <EOL>
+quicquid et VERB VERB NOUN VERB <EOL> at -que tuis NOUN VERB siue VERB NOUN <EOL>
+in NOUN NOUN si VERB VERB non ita VERB NOUN ut eis ADJ VERB
+haec VERB NOUN totam tibi VERB
+VERB cuncta ADJ VERB VERB NOUN
+AUX quod NOUN multum ADJ NOUN VERB <EOL> VERB sua VERB ei NOUN cuncta <EOL> NOUN ut VERB NOUN -que suos uti VERB <EOL>
+tali NOUN VERB hoc tali quoque NOUN <EOL> ut NOUN nil VERB nulliue suorum
+ultra VERB sibi nil VERB ille VERB <EOL> saepe VERB quo se VERB VERB <EOL>
+sic VERB NOUN NOUN ADJ sine NOUN VERB VERB quod
+ADV VERB NOUN illud
+ADJ nemo VERB uel ADJ illo
+a paucis VERB ADJ dum VERB
+nemo VERB ADJ ADJ tunc VERB ADJ <EOL> NOUN tenus sed ad NOUN simul VERB VERB <EOL> ad NOUN VERB simul ad NOUN simul VERB <EOL>
+NOUN iam NOUN VERB hanc ast hunc ea NOUN
+mox NOUN NOUN NOUN VERB VERB <EOL> ille suos NOUN ADV VERB illos <EOL>
+nunquam ADJ nos VERB NOUN <EOL> nec ADJ sibi tam bene VERB <EOL>
+NOUN quae ADJ prius AUX et VERB NOUN <EOL> haec nunc NOUN semper VERB at -que ADJ <EOL>
+illic NOUN si VERB VERB ADJ
+VERB uel in NOUN NOUN ADJ NOUN horum <EOL>
+tunc VERB et PROPN ADJ nimium -que ADJ <EOL> AUX ADJ hic aliquis cui AUX ADJ NOUN
+hic VERB AUX ADJ multum ADJ cui AUX NOUN
+pro NOUN ah VERB
+is VERB ADV nuper <EOL> et VERB NOUN ADJ nimium -que ADJ <EOL>
+VERB pro nihilo VERB eum quia crebro <EOL> VERB NOUN ADJ VERB ADV illis <EOL>
+NOUN ille VERB et in illos VERB <EOL> NOUN de ADJ NOUN quod et VERB illis <EOL>
+his VERB ADJ ad NOUN VERB <EOL> NOUN item VERB cum PROPN quem mihi VERB <EOL> tunc AUX NOUN meum mihi uel -que meis VERB <EOL> sicut in hac NOUN dum VERB a te <EOL>
+AUX mihi quod VERB de te NOUN ut mihi VERB
+cui mox de NOUN NOUN VERB quoque NOUN <EOL> in plures NOUN quam VERB VERB <EOL> pro NOUN NOUN VERB in omnes <EOL>
+post haec sat VERB NOUN sat VERB VERB <EOL> NOUN at in NOUN ADJ NOUN ADJ <EOL> ADJ NOUN VERB siue NOUN <EOL> in qua bis NUM AUX ADJ NOUN VERB <EOL>
+NOUN NOUN NOUN NOUN VERB VERB ADJ <EOL> quam dum VERB ibi quidam ADJ ei VERB
+numquam VERB tamen ex hac ni sibi VERB <EOL> cui VERB in hac in NOUN VERB at istud
+VERB NOUN postquam -que VERB sibi NOUN <EOL> VERB ei NOUN de quo VERB et sibi VERB <EOL> qui VERB NOUN prius et post VERB ipse <EOL>
+de NOUN VERB NOUN ADJ -que VERB <EOL> sicque VERB VERB NOUN qui VERB <EOL>
+tandem NOUN VERB sua NOUN ADV VERB ut NOUN sic VERB VERB ADJ
+interea ADJ quid VERB non VERB <EOL>
+NOUN ut VERB ubi tot NOUN VERB <EOL> PROPN cur VERB ADJ AUX ubi NOUN VERB <EOL>
+NOUN VERB VERB me cum post forsan VERB
+quod VERB VERB sed quod tu VERB VERB
+ad NOUN tunc VERB ad NOUN se -que VERB <EOL>
+VERB multi ADJ AUX VERB <EOL> VERB haut NOUN VERB tam bene nusquam
+at ADV VERB ab hoc properanter <EOL> VERB et ad NOUN nil VERB nisi NOUN <EOL>
+VERB NOUN ADJ saepe VERB
+VERB ADJ NOUN ADJ -que sui NUM prae se
+tunc ADJ VERB VERB NOUN nimis VERB quam cito quis VERB uel me VERB VERB <EOL>
+cum -que NOUN quis AUX per NOUN VERB VERB <EOL> NOUN VERB et VERB NOUN VERB NOUN VERB
+PROPN VERB VERB VERB quasi VERB me
+tunc AUX VERB ADJ nimis hinc VERB
+NOUN VERB ADJ VERB illi tunc VERB
+PROPN ADV nimis VERB ADV <EOL> in NOUN NOUN non VERB et NOUN <EOL> VERB ut ADJ prae se VERB utque ADJ <EOL>
+VERB ab NOUN NOUN NOUN VERB VERB
+sed ADJ tandem VERB VERB ad NOUN si uos VERB me VERB quod VERB <EOL>
+VERB quis AUX VERB is ADV satis VERB <EOL> VERB quis AUX nunc nobis quidue VERB <EOL>
+AUX NOUN uestra mea NOUN ualde ADJ
+hanc ut VERB solus VERB solam
+is VERB VERB VERB hanc ad eum -que VERB
+quae VERB
+ut VERB VERB in NOUN VERB <EOL> VERB VERB ea VERB sibi VERB <EOL>
+omne NOUN NOUN tibi VERB uel tua NOUN
+post VERB solus ubiuis et quicquid alius
+PROPN VERB primo quae VERB NOUN VERB <EOL> nostrum NOUN nam non VERB AUX ADJ
+non VERB non VERB te VERB ADV <EOL> ne ADJ ille NOUN VERB nostram NOUN
+si mihi VERB ab eo citius VERB
+AUX hic nam NOUN ADJ ADJ NOUN <EOL> haut ADJ haut ADJ sed NOUN ADJ <EOL>
+AUX ADJ totusue NOUN ADJ <EOL> in toto NOUN non AUX ADJ illo
+qui dum VERB tu quam ADJ AUX <EOL> et quas NOUN VERB ADJ <EOL> NOUN tenus VERB ADJ uel mihi VERB <EOL> umquam si AUX mihi ADJ PROPN NOUN <EOL> ADV VERB illi NOUN VERB <EOL> si VERB ut VERB se uel de NOUN VERB <EOL> VERB ADJ cras quando NOUN VERB <EOL> ut VERB nulli sibi tam ADJ NOUN <EOL> VERB e NOUN NOUN VERB ADV <EOL> donec VERB cum pluribus hanc VERB <EOL>
+ADV haec NOUN AUX VERB et sibi quod -que VERB <EOL>
+nunc sibi VERB quod VERB NOUN mea ADJ
+ADV VERB hoc VERB ut omne <EOL> interius VERB tamen VERB ei quasi VERB <EOL> cuncta ADV VERB AUX ADJ at -que NOUN VERB <EOL>
+VERB NOUN ADJ VERB nihil ultra <EOL> ter mihi VERB in NOUN VERB NOUN <EOL>
+si ADV VERB VERB VERB uel ADV VERB
+sicut VERB VERB VERB quod tu VERB <EOL> ad -que ADJ VERB mihi VERB -que VERB <EOL>
+ille ADV VERB si prae NOUN VERB
+illa VERB multum VERB ne VERB illum
+si VERB hic VERB quod nobis AUX sibimet AUX
+VERB in NOUN ADV illa NOUN
+non ea nec ADJ VERB magis eius <EOL> VERB si quid ibi NOUN is VERB <EOL>
+VERB -que NOUN NOUN bene VERB illum
+ADV VERB sat VERB -que VERB <EOL> VERB VERB NOUN sibi NOUN VERB <EOL>
+VERB ADJ quo non ADJ alter <EOL> ADJ in NOUN VERB quod nemo VERB <EOL> eius quid NOUN AUX quia ualde ADJ <EOL> ni solus NOUN ADJ AUX et ADJ <EOL>
+VERB NOUN ADJ uelut VERB ADJ <EOL> hos -que VERB VERB NOUN NOUN <EOL> neue NOUN ubi AUX in NOUN quit quis VERB VERB <EOL> sic se NOUN VERB ADJ ue ADJ
+ille VERB tamen NOUN VERB sat VERB
+istorum ADJ cum VERB sibi NOUN <EOL> inter eos VERB NOUN VERB et ipsos <EOL>
+ad ADJ VERB VERB -que VERB
+prae se VERB VERB per plura VERB
+cum VERB NOUN VERB VERB <EOL> VERB et NOUN satis AUX iam VERB NOUN <EOL>
+non VERB NOUN sic AUX ADJ ne -que sed NOUN <EOL> et VERB NOUN VERB VERB haut ADJ
+sic VERB VERB ad NOUN uelut VERB <EOL> VERB eo NOUN per -que NOUN <EOL>
+ADJ et in NOUN VERB ADV ipsum <EOL> una NOUN NOUN VERB et altera NOUN <EOL> quod VERB ea super VERB NOUN <EOL>
+hoc totum ceu NOUN VERB ADJ VERB
+quando VERB sibi non VERB nam non ea VERB
+tunc -que VERB NOUN nimis VERB ADJ saepe VERB NOUN quo VERB VERB NOUN
+quae VERB NOUN VERB VERB <EOL>
+is VERB NOUN NOUN essetne VERB <EOL> quam cito uos VERB VERB VERB VERB
+nunc NOUN VERB VERB -que VERB <EOL> VERB et AUX NOUN ut uester ADJ NOUN <EOL> sat -que VERB hunc nunc VERB VERB <EOL>
+VERB is at -que NOUN sibi VERB VERB ADJ <EOL> VERB uel eum VERB ADJ quae VERB <EOL>
+non VERB is VERB ADJ VERB nisi crebro <EOL>
+NOUN et NOUN se VERB VERB
+per NOUN NOUN VERB ab omni NOUN ADJ
+VERB NOUN NOUN VERB illam <EOL> VERB PROPN ADJ mihi ualde ADJ VERB <EOL> his et VERB mihi VERB qui VERB <EOL> VERB -que meis ut idem VERB VERB NOUN <EOL>
+sic VERB VERB cito post haec VERB VERB
+VERB NOUN NOUN VERB ubique <EOL> ante VERB NOUN multus NOUN et ipsam <EOL> et ADJ ADJ siue ADJ <EOL>
+NOUN ADV VERB NOUN ut ADJ VERB
+utque VERB ibi quos VERB VERB <EOL> hic VERB AUX NOUN ADJ uti -que NOUN <EOL> quod AUX VERB quo non ADJ AUX ullus <EOL>
+VERB VERB omnes ibi qui VERB <EOL> VERB ni VERB ADJ VERB <EOL>
+VERB post NOUN post VERB simul ipsos
+qui dum VERB coram NOUN VERB <EOL> PROPN VERB NOUN ADJ VERB <EOL>
+NOUN dum VERB quod VERB ADV VERB <EOL> VERB cum cunctos hic VERB cum VERB nos
+quid VERB quod eum sic VERB
+PROPN VERB NOUN mihi VERB ADJ <EOL> ob nullam NOUN ni quod VERB prope NOUN <EOL>
+VERB et NOUN tua NOUN si AUX illa cur hanc VERB NOUN NOUN VERB <EOL>
+PROPN VERB cur me NOUN haec VERB ad se
+cur VERB VERB
+VERB non ni VERB me
+quae tantum VERB NOUN NOUN ibi quod VERB
+ex NOUN NOUN ADV VERB sibi ADJ
+postquam VERB quod quid VERB VERB VERB o nimis ADJ cur sic VERB super me <EOL>
+NOUN PROPN qui NOUN VERB in PROPN
+non post te VERB non te prius ADJ VERB
+me cum NOUN ADJ VERB
+non ego VERB quod VERB sed ADV VERB <EOL> quod tu VERB me VERB VERB <EOL>
+non ego VERB VERB me super VERB
+NOUN NOUN ADV VERB ADV <EOL> donec VERB memet donec quoque VERB <EOL>
+en mea NOUN VERB quia ualde ADJ VERB
+si me VERB VERB super NOUN ADJ <EOL> VERB NOUN mihi ADJ VERB NOUN <EOL> VERB ut per eam per quam ADJ saepe VERB <EOL>
+sed VERB post NOUN NOUN VERB ut ipsum <EOL> et VERB in NOUN NOUN VERB <EOL> ne NOUN VERB NOUN aut NOUN VERB NOUN <EOL> ne per me NOUN VERB VERB NOUN <EOL>
+VERB NOUN VERB VERB si me <EOL> NOUN in NOUN quod VERB VERB <EOL> VERB qui me ne VERB VERB <EOL>
+tantum NOUN VERB in NOUN uel VERB me <EOL> NOUN ut citius VERB aut ADJ NOUN <EOL>
+VERB in VERB ADJ VERB NOUN VERB sponte quo non VERB NOUN NOUN <EOL>
+ut VERB NOUN si VERB VERB NOUN <EOL> <EOL> VERB ADV quia tali VERB NOUN <EOL> ADJ NOUN mihi post ne VERB <EOL>
+AUX nimis ADJ tali ADJ NOUN
+quicquid NOUN VERB adhuc ADJ <EOL> omne ADV VERB ADV ADJ VERB <EOL>
+quae dum VERB NOUN VERB ita VERB VERB haec semet uos VERB si sat in hoc AUX <EOL>
+omnes VERB nimium sibi VERB VERB non NOUN AUX NOUN VERB super hoc plus <EOL>
+VERB NOUN NOUN VERB illi <EOL> VERB tantum si VERB male VERB <EOL>
+eius NOUN VERB uelut NOUN <EOL> VERB NOUN NOUN VERB NOUN <EOL> ut NOUN NOUN sibi VERB -que NOUN <EOL> AUX NOUN NOUN uelut ante AUX VERB illam <EOL>
+quod dum VERB ADV id illa VERB <EOL> ADV non NOUN sed me VERB NOUN
+VERB si VERB me sed tamen VERB NOUN ut mihi VERB quo me non VERB
+NOUN VERB quidquid AUX et NOUN utrimque <EOL> ut VERB ADJ omni sine NOUN NOUN <EOL> ut nullum VERB ADV mihi NOUN quo VERB <EOL> in NOUN at -que NOUN me VERB in ADJ <EOL> per ADJ NOUN NOUN ceu tenus hac VERB <EOL> VERB ut quisquam propter NOUN hoc mihi VERB <EOL> et VERB tibi uae VERB tale quid in te <EOL> ne ADJ NOUN penitus me sic VERB ADJ <EOL>
+tunc NOUN NOUN hanc VERB ADJ <EOL> NOUN et ut NOUN AUX eis nec ut ante NOUN
+quae NOUN ADJ NOUN VERB omnes <EOL> VERB NOUN uelut ex NOUN VERB <EOL>
+NOUN VERB hinc NOUN ea VERB <EOL> cum quibus et ADJ VERB illa NOUN <EOL> NOUN NOUN VERB NOUN donec VERB <EOL>
+NOUN ADJ NOUN omne VERB et ipsum
+sic nil ni NOUN NOUN VERB et eius
+NOUN VERB NOUN ADJ id -que VERB
+non VERB nisi NOUN quando VERB <EOL> <EOL> uel VERB ex NOUN tantum NOUN ADJ <EOL>
+tunc ADJ NOUN VERB NOUN ADJ
+VERB haec NOUN ADJ per NOUN et NOUN <EOL> VERB et in NOUN nihilo NOUN nisi NOUN <EOL> et pro ADJ VERB ADV NOUN <EOL>
+ante NOUN VERB ADJ ad NOUN uel VERB <EOL> donec VERB donec plus VERB VERB
+tunc VERB in NOUN dum NOUN VERB ibi VERB
+VERB aut VERB seu NOUN VERB VERB <EOL> VERB ad NOUN mox ut VERB ad ipsam <EOL> et non inde VERB dum NOUN -que VERB
+ad ADJ tunc VERB donec NOUN sibi VERB <EOL> NOUN ad NOUN uel VERB VERB
+tunc VERB NOUN post haec ibi VERB ad NOUN
+nil -que NOUN sibi VERB hanc VERB illis
+quod sibi VERB VERB quod non VERB non ea VERB
+haec nunquam VERB cum nemine postea VERB <EOL> cum VERB alii NOUN ADJ AUX illi <EOL>
+hanc VERB VERB VERB <EOL> nemo VERB eam dum NOUN VERB istam <EOL>
+illa VERB NOUN ab eis -que VERB <EOL> NOUN VERB NOUN quid VERB VERB ADJ <EOL> qui NOUN hoc ADJ VERB inter nos ADJ
+PROPN NOUN ADJ NOUN VERB VERB <EOL> hic VERB NOUN prius hunc VERB VERB <EOL> quam quid in his NOUN VERB VERB <EOL> qui cuius NOUN AUX quit sat VERB uobis <EOL>
+VERB dum post hunc eius ADJ VERB <EOL> NOUN NOUN VERB quem uos VERB ADJ VERB <EOL>
+hac me cum NOUN VERB quod non AUX iste
+quem dum VERB VERB NOUN VERB VERB NOUN ADJ NOUN tuus iste NOUN estne
+AUX ibi ADV prope NOUN
+in quo AUX NOUN plures in NOUN VERB <EOL> quis VERB NOUN VERB quas -que VERB <EOL> ne VERB NOUN cum non VERB ibi NOUN <EOL>
+cum NOUN NOUN VERB ad NOUN ADJ <EOL> qua VERB eis multum bene nunc VERB
+dum NOUN VERB VERB illos ut VERB <EOL> quos NOUN NOUN VERB VERB ad NOUN <EOL>
+VERB NOUN NOUN -que NOUN <EOL> NOUN -que suus VERB in NOUN eius <EOL>
+VERB ADJ NOUN NOUN plaususue NOUN <EOL> VERB -que NOUN VERB VERB -que VERB <EOL>
+VERB NOUN cuncto NOUN VERB <EOL> ad NOUN VERB ea quem bene VERB <EOL>
+NOUN talis AUX nusquam uos ADV AUX
+tunc VERB VERB NOUN in NOUN ADJ <EOL> ut ADJ quot VERB NOUN is VERB <EOL>
+tunc AUX VERB quotquot AUX ibi VERB <EOL> PROPN et ADJ qui AUX in NOUN ADJ <EOL> NOUN nam -que VERB illos ubi VERB VERB <EOL> NOUN NOUN NOUN NOUN NOUN NOUN <EOL> PROPN NOUN qui ADJ nimis intus AUX ADJ <EOL> ADJ NOUN VERB NOUN ADJ uel ADJ <EOL> in NOUN ADJ NOUN post ADJ NOUN <EOL> ADJ NOUN uel per NOUN ADJ NOUN <EOL> PROPN NOUN ambo ADJ nimis in VERB <EOL> ast NOUN ut NOUN in NOUN VERB ADJ <EOL> ADV multi NOUN mihi non bene ADJ <EOL>
+his VERB VERB citius VERB illa VERB
+NOUN VERB NOUN ADJ VERB <EOL>
+VERB et interea cito quo VERB sua VERB <EOL> post quam mox ADJ plures VERB NOUN <EOL> VERB ex NOUN quae ADJ NOUN NOUN <EOL> post ADV -que sibi VERB NOUN PROPN <EOL>
+quae dum VERB ceu ADJ NOUN VERB
+NOUN VERB quid ei VERB ut VERB
+NOUN quicquid sibi sponte VERB ille VERB
+VERB at sibi quid NOUN non id VERB
+at si VERB VERB VERB ADJ hoc NOUN VERB <EOL> VERB tandem VERB VERB sibi NOUN <EOL> at -que VERB ni ADJ VERB <EOL>
+NOUN VERB NOUN cetera cuncta VERB
+tunc VERB NOUN NOUN VERB haec mihi ADJ
+NOUN VERB NOUN NOUN AUX hic ADJ isti
+quod VERB nisi VERB VERB
+VERB VERB in ADJ quod VERB cito NOUN
+VERB abs -que NOUN VERB NOUN ADJ
+haec VERB a NOUN VERB modo uestra
+tunc ibi nemo AUX VERB nemo -que VERB <EOL> neue NOUN VERB a NOUN ni VERB <EOL>
+NOUN VERB sibi VERB VERB cui VERB illa
+quae sibi dum VERB cuius AUX ea VERB <EOL>
+hic VERB -que NOUN nunc illa VERB NOUN
+quae VERB ADJ NOUN ADV VERB
+ante NOUN VERB NOUN NOUN -que VERB
+qui se VERB NOUN in -que NOUN sibi VERB <EOL> et ueluti VERB NOUN VERB VERB <EOL>
+nunc tu VERB VERB uel NOUN AUX ut ante
+quod cum VERB VERB NOUN VERB <EOL> nunc hunc nunc NOUN nunc VERB VERB
+NOUN VERB uestrum sibi quis VERB NOUN <EOL> VERB NOUN ADV VERB NOUN <EOL>
+quod NUM dum VERB cur VERB
+et VERB <EOL> VERB eos NOUN hunc ab eis -que VERB <EOL> VERB in NOUN illos nimium VERB <EOL> sic se VERB cum quo prae VERB se <EOL>
+quidam VERB quidam nimis inde VERB
+NOUN cum NOUN sic sat VERB ADJ
+NOUN post multa post NOUN tam ADJ <EOL> NOUN VERB
+ADJ VERB dum VERB
+NOUN NOUN non tunc AUX NOUN <EOL> ni NOUN VERB de NOUN NOUN VERB <EOL> quaedam NOUN NOUN NOUN NOUN ADJ <EOL> quae ADV VERB undique passim <EOL>
+quas ad NOUN VERB VERB <EOL>
+tunc sibimet VERB NOUN et NOUN VERB
+cum per NOUN in NOUN quis sibi NOUN <EOL> VERB mox illo VERB VERB <EOL> VERB ADV quod quit VERB cui -que <EOL>
+sic VERB AUX post ADJ cito cunctae
+ADV post NOUN sibi cum VERB VERB <EOL> in NOUN VERB quod eis VERB VERB <EOL> dum -que VERB ADJ VERB NOUN -que VERB <EOL> NOUN sua NOUN certatim mox VERB <EOL> et VERB NOUN NOUN VERB <EOL> sic VERB NOUN quod non VERB per omnem
+NOUN VERB ADJ ADJ <EOL> cum nimis ADJ ADJ AUX tale quid omne <EOL>
+NOUN ADJ uel NOUN VERB in NOUN <EOL> ADJ sed eos VERB NOUN VERB <EOL> ut per NOUN VERB NOUN sibi VERB <EOL> quod primo ADJ nimium VERB NOUN <EOL>
+cum NOUN non VERB has illi VERB <EOL> qui NOUN VERB his illi mox VERB <EOL>
+VERB ADJ super hos NOUN NOUN <EOL> ADV VERB NOUN et noster VERB <EOL> us -que qui AUX in NOUN NOUN NOUN NOUN VERB <EOL> ADJ NOUN VERB VERB VERB VERB <EOL> quod NOUN VERB ADJ quam VERB VERB
+interea NOUN NOUN simul eius <EOL> cum NOUN VERB NOUN ubi VERB <EOL>
+NOUN ut VERB male quam NOUN VERB <EOL> inter eos ADJ illius NOUN NOUN <EOL> ad NOUN VERB ibi si plus NOUN AUX <EOL>
+AUX VERB hic NOUN ADJ qua non AUX ulla <EOL> in qua dum VERB meus NOUN VERB <EOL> cuius NOUN mea NOUN VERB NOUN <EOL> quam nemo VERB is postquam VERB VERB <EOL> in qua si VERB NOUN VERB VERB
+quam VERB VERB sibi quam VERB is VERB <EOL> VERB mox ADJ NOUN ADJ modo ADJ <EOL> VERB NOUN ADJ VERB nimis NOUN <EOL> multum ADV VERB NOUN quae -que <EOL> quod NOUN VERB NOUN NOUN uel VERB <EOL> ADJ omnino VERB haec VERB ambo
+qui prius ADV NOUN VERB ADV <EOL> VERB illi ADJ VERB nec VERB <EOL>
+sic NUM ADJ VERB ADV NOUN <EOL> ADJ VERB NOUN VERB VERB et sua NOUN <EOL>
+eius NOUN quem VERB uel ADJ
+quem per NOUN siue NOUN VERB VERB <EOL> dum ADV operareturue ADV <EOL> VERB ADJ quo contra VERB ADJ <EOL>
+ille uelut NOUN se VERB et haec ut NOUN
+ast ubi VERB citius se VERB
+is se VERB sed VERB illa VERB <EOL> neutrum VERB NOUN NOUN VERB <EOL> nemo VERB quo VERB si VERB <EOL>
+tunc NOUN VERB ibi multi quod VERB <EOL> VERB NOUN VERB AUX quia NOUN <EOL>
+ADV et VERB et in alterutrum nimis VERB <EOL> NOUN ADJ VERB VERB <EOL> illius id NOUN VERB nimium VERB <EOL> at -que VERB quod VERB VERB <EOL>
+hunc NOUN VERB quo se cum NOUN VERB <EOL> NOUN ut VERB VERB ter VERB <EOL>
+tunc is qui NOUN quem VERB modo primum <EOL> VERB VERB ADJ uter -que suus AUX <EOL>
+haec ea VERB VERB et eum VERB <EOL> gratis VERB NOUN gratis sibi VERB <EOL>
+quae nimium ADJ se sic VERB NOUN <EOL> VERB ADJ cito VERB NOUN <EOL> quem VERB a NOUN VERB ei -que VERB <EOL>
+in cuius NOUN NOUN AUX ADJ ADV
+hunc ni VERB NOUN non VERB
+nam VERB NOUN post te iam VERB ipsum
+VERB ut hoc NOUN NOUN VERB VERB VERB <EOL> an VERB NOUN VERB NOUN uel in ista
+cras VERB ad ADJ NOUN quis VERB NOUN <EOL> sed NOUN VERB penes hanc VERB ADJ VERB <EOL>
+AUX VERB NOUN eum AUX VERB <EOL> inter NOUN VERB NOUN cito ADJ <EOL> VERB NOUN NOUN pro ADJ VERB <EOL>
+tunc NOUN VERB NOUN quem VERB VERB <EOL> PROPN VERB VERB NOUN VERB
+interea ADJ pariter VERB et ADJ
+hunc ea ter VERB hanc is ADV VERB <EOL> ADV VERB VERB NOUN VERB <EOL> NOUN is quod AUX ADJ quod NOUN VERB <EOL> non se VERB sed VERB VERB <EOL>
+haec suus ille sua VERB NOUN VERB <EOL> VERB NOUN NOUN NOUN VERB <EOL>
+nec iam VERB se quin ADV VERB <EOL> NOUN si VERB uel in ipsa NOUN VERB <EOL>
+illa tamen VERB sibi si non NOUN AUX
+ut VERB tunc NOUN uix VERB
+VERB quid VERB cur NOUN ita VERB <EOL> quidquid VERB uel VERB VERB ut pos hoc ea VERB <EOL>
+ille magis NOUN VERB ut VERB VERB <EOL> semper VERB pro se PROPN ADV VERB VERB -que <EOL> id -que NOUN VERB et ad NOUN VERB <EOL> sic VERB illi quod nunc VERB VERB VERB <EOL>
+quae VERB VERB
+PROPN ADV VERB VERB -que
+tunc quamuis NOUN NOUN VERB VERB <EOL> omnes VERB ADJ quid tale VERB
+NOUN VERB VERB NOUN et VERB ubi supra <EOL> VERB e NOUN NOUN VERB ADJ
+primo NOUN iuxta quem ADJ eius tunc NOUN VERB NOUN VERB VERB <EOL>
+NOUN VERB quod non NOUN unus ibi AUX
+quod tam nemo ADJ AUX qui VERB VERB <EOL> ADJ an NOUN ADJ an AUX NOUN <EOL> AUX tam ADJ tam ADJ NOUN <EOL>
+dum se VERB NOUN NOUN -que VERB <EOL> VERB NOUN <EOL>
+ADJ mox sibi NOUN <EOL> ADJ VERB qua NOUN VERB VERB <EOL> donec VERB NOUN -que sibi VERB <EOL>
+post ADJ VERB sua NOUN VERB
+non tamen in NOUN VERB VERB ADJ <EOL> sed ADJ NOUN ADV uelut NOUN <EOL> at -que VERB totum sibi VERB NOUN
+haec quod ei VERB ADV VERB <EOL>
+VERB NOUN NOUN VERB in omnem <EOL> VERB cuiuis NOUN cum ADJ NOUN <EOL> cum NOUN NOUN VERB ADV NOUN <EOL>
+PROPN NOUN NOUN AUX ADJ <EOL> ex uno NOUN VERB una quoque NOUN <EOL> ex uno NOUN VERB ADV ambo <EOL>
+NOUN NOUN VERB AUX NOUN sola <EOL> cui NOUN NOUN cum VERB VERB illa ADV <EOL> PROPN NOUN ADV VERB omnem <EOL>
+NOUN post multa post NOUN tot -que VERB <EOL> tunc NOUN VERB NOUN NOUN VERB illam <EOL>
+ad NOUN quas -que ADJ VERB hanc VERB cui -que <EOL>
+ADV NOUN passim NOUN VERB <EOL>
+NOUN VERB ADJ at -que VERB <EOL> VERB VERB NOUN NOUN -que VERB <EOL> VERB VERB PROPN ADJ VERB <EOL> quo VERB NOUN ne plus VERB <EOL> primitus ut saepe VERB illo cum VERB <EOL>
+AUX VERB cito per totam NOUN <EOL> PROPN VERB VERB sat ADV <EOL>
+dum sibi post VERB dum NOUN -que sibi VERB <EOL> VERB NOUN cum VERB sibi NOUN <EOL> ADJ -que VERB NOUN quo sibi VERB <EOL>
+de qua ADJ VERB NOUN ADJ <EOL> in NOUN in ADJ NOUN et alius <EOL> ADV quae ADJ VERB in NOUN <EOL>
+post VERB NOUN quas ADJ VERB ambas
+VERB ut NOUN VERB hunc VERB aput ADJ
+quos dum VERB NOUN ADV is VERB hos VERB tenus hac NOUN ubi VERB
+hos mihi NOUN VERB NOUN VERB NOUN nobis VERB ante VERB
+NOUN VERB me -que VERB
+quam bene AUX ADJ VERB NOUN ADJ
+is VERB melius VERB quo soli VERB
+VERB NOUN quo NOUN VERB unum <EOL> VERB NOUN NOUN sub quo AUX NOUN
+NOUN ut VERB NOUN NOUN -que VERB <EOL> ADJ VERB VERB NUM per NOUN NOUN <EOL> VERB NOUN cito NOUN NOUN <EOL> VERB NOUN VERB ADJ ibi NOUN <EOL> tam ADV VERB quod VERB VERB unus
+PROPN VERB NOUN NOUN et VERB <EOL>
+nec VERB ADJ NOUN VERB NOUN <EOL> VERB NOUN NOUN VERB ADV <EOL> NOUN VERB ADJ NOUN -que VERB <EOL> VERB et VERB
+nimium sua NOUN VERB <EOL> tunc NOUN VERB in NOUN sat ADV VERB <EOL> VERB NOUN NOUN PROPN VERB in ADJ <EOL> quod VERB VERB sibi tam -que ADJ <EOL>
+NOUN NOUN VERB se NOUN VERB NOUN -que saepe <EOL> ceu se pro NOUN NOUN NOUN VERB eius <EOL>
+tunc nimium VERB NOUN VERB -que VERB <EOL> VERB NOUN num ADJ tibi quis VERB AUX <EOL> qui ADJ illum ADJ VERB NOUN <EOL> sic VERB uel NOUN VERB <EOL> eius nec NOUN VERB quod VERB
+nunc mihi VERB NOUN quo non VERB VERB ante <EOL> quam rursus VERB quem ADJ VERB -que VERB <EOL> qui VERB te ADV VERB me <EOL> VERB ADJ NOUN NOUN <EOL> et ADJ ADJ se cum VERB per NOUN <EOL> VERB me VERB quod ADV sat ADV <EOL> VERB ADV haec si VERB ADV <EOL>
+PROPN cum NOUN dum sat VERB super hac NOUN <EOL> NOUN VERB ADV quam VERB <EOL> et VERB NOUN se cum VERB quicquid alius <EOL>
+VERB plures ADJ NOUN ADJ
+quidam ADJ nostri NOUN <EOL> qui quando VERB haec dum VERB ibi AUX <EOL>
+ad uos nunc illam uos VERB NOUN <EOL> uestri ADJ VERB utrimque ADJ <EOL>
+quae cum VERB hanc hi circum -que VERB <EOL> NOUN NOUN cito ADJ VERB VERB <EOL>
+quos PROPN bene VERB quibus NOUN VERB <EOL> et VERB VERB satis illis et VERB <EOL>
+VERB NOUN NOUN et inde VERB <EOL> ad sua NOUN VERB eas ea VERB <EOL>
+post illas -que VERB sibi qui NOUN VERB <EOL> et plures alii VERB his VERB <EOL>
+his NOUN VERB VERB illo pro VERB
+dum -que VERB quis -que sibi ADJ VERB us -que <EOL> NOUN NOUN VERB VERB <EOL>
+VERB VERB PROPN NOUN -que VERB
+tunc PROPN VERB quia uos NOUN huc VERB <EOL> nunc VERB mihi VERB uel VERB <EOL> NOUN quoddam quo VERB nunc VERB <EOL> AUX quod VERB sic ad nos VERB <EOL> ad quod VERB mihi uos VERB AUX NOUN <EOL>
+VERB ut ADJ meus iste NOUN et ADJ <EOL> ADJ VERB sese dum NOUN VERB <EOL> NOUN ADJ VERB VERB <EOL>
+VERB hoc cuncti VERB VERB <EOL> NOUN ut tantae NOUN tam NOUN ADJ <EOL> non VERB citius sed ut VERB <EOL> a NOUN ADJ digne satis NOUN VERB <EOL> et VERB NOUN quod in hoc NOUN AUX ADV <EOL> NOUN quae ADJ de se VERB ipsam <EOL>
+tunc VERB NOUN NOUN VERB omnibus illis <EOL> quod tam ADJ sibi AUX ADV omnes <EOL> VERB et VERB penitus se se -que VERB <EOL> sic VERB per id ADJ NOUN <EOL>
+nunc NOUN NOUN nimium mihi VERB AUX <EOL> quam quoniam ADV nunc VERB hic VERB <EOL> hanc VERB VERB uel mihi VERB <EOL> ut AUX NOUN et ad hoc mihi VERB VERB <EOL> alterutros cum nos VERB AUX ueluti NOUN <EOL>
+qui VERB ADV tibi VERB in hac NOUN
+PROPN post NOUN pariter VERB eas NUM <EOL> quae cito VERB VERB VERB ADV <EOL>
+contra quas NOUN VERB eis ad NOUN
+cuncti dum VERB NOUN ADJ VERB <EOL> tunc PROPN VERB et ut VERB sibi VERB
+his post NOUN NOUN VERB uel NOUN <EOL> hic quod et haec VERB in alterutrius NOUN <EOL>
+hanc hunc NOUN suimet si VERB VERB <EOL> illum si VERB VERB
+parum quoque VERB <EOL> post VERB an NOUN VERB NOUN VERB <EOL> VERB quem VERB sub talis NOUN VERB <EOL> seu VERB seu VERB soli mihi VERB <EOL>
+VERB ADV VERB quo mihi NOUN NOUN -que <EOL> quod quanto melius VERB AUX tanto mihi ADJ
+tunc NOUN ADJ VERB ab omnibus at -que NOUN <EOL> tam ADV VERB quod tam uel ADV <EOL>
+eius at ut NOUN VERB haec non VERB <EOL> et NOUN amborum ADJ VERB -que NOUN <EOL> VERB caute bene VERB quod utrimque <EOL> hanc VERB sibi VERB NOUN ADJ
+NOUN at VERB NOUN ue NOUN VERB
+NOUN in NOUN VERB AUX ADJ ipso <EOL> VERB quem NOUN NOUN VERB et ad se <EOL> NOUN ut NOUN VERB undique totum <EOL> sic tibi VERB NOUN ADJ uel ADJ <EOL> hanc VERB mihi VERB aut VERB <EOL>
+quae satis ADV ADJ VERB et ADV <EOL> NOUN ADJ VERB ut VERB uter -que <EOL>
+cur VERB NOUN tibi VERB VERB ADJ quam mihi tu VERB
+VERB si VERB VERB <EOL> si VERB PROPN NOUN VERB ut PROPN <EOL> unam cum NOUN VERB NOUN in NOUN
+quam de se VERB cum VERB PROPN VERB ubi VERB ADJ sibi VERB NOUN
+cum VERB AUX NOUN tibi VERB
+VERB ut hoc NOUN tibi VERB
+VERB VERB <EOL> et ADV -que VERB VERB VERB sed me <EOL>
+tot AUX in NOUN tibi ceu quo tam bene VERB
+sic VERB NOUN sibi VERB et NOUN
+cui VERB NOUN VERB VERB uelut NOUN
+umquam si VERB tibi quae VERB NOUN VERB <EOL> istius NOUN VERB -que ADJ AUX <EOL>
+quae ADJ VERB ad eum sese -que VERB <EOL> VERB ea NOUN modo VERB sine NOUN <EOL>
+huius amen VERB NOUN et sibi NOUN VERB
+his ita VERB NOUN VERB ADJ NOUN <EOL> VERB NOUN VERB NOUN <EOL>
+PROPN ADJ VERB bene ualde ADJ <EOL> NOUN uel NOUN NOUN NOUN VERB <EOL> VERB et NOUN ADJ sibi ADV sat VERB <EOL>
+VERB et NOUN NOUN VERB
+huic NUM VERB NOUN quae VERB NOUN ADJ <EOL> at -que VERB NOUN sibi bis ADJ ADJ <EOL> et pariter sibi NUM VERB ADJ NOUN <EOL> VERB -que VERB NOUN NOUN ADJ <EOL>
+cetera NOUN sua sibi VERB NOUN ADJ
+qualiter inter se VERB quid mihi NOUN
+VERB quae VERB pariter cunctos VERB
+NOUN quae NOUN ADJ AUX in NOUN NOUN <EOL> ADJ ADJ NOUN VERB post NOUN NOUN <EOL>
+NOUN VERB NOUN quae AUX ADV ADJ <EOL> ante ADJ sibi VERB NOUN ADJ <EOL>
+VERB NOUN NOUN nimium ADJ
+VERB NOUN quondam NOUN VERB
+NOUN ADJ VERB VERB ut VERB <EOL> per quos NOUN ADV VERB VERB NOUN <EOL> et NOUN VERB ADJ ceu NOUN NOUN AUX <EOL>
+utque VERB ADJ VERB sibi NOUN <EOL> NOUN et ADJ quod plures VERB in se <EOL> VERB semper ADJ NOUN VERB uel ADJ <EOL>
+VERB NOUN ADJ VERB quasi NOUN <EOL> VERB NOUN iam seu NOUN ADJ <EOL> ADJ ut NOUN NOUN VERB VERB <EOL>
+et prius us -que NOUN qui NOUN ADJ <EOL> VERB ADV NOUN VERB ADV <EOL> VERB ADJ VERB VERB <EOL> per NOUN NOUN ut ADV AUX sibi VERB
+VERB NOUN NOUN VERB VERB <EOL> ut ADJ NOUN ubi VERB VERB NOUN <EOL>
+et quae VERB VERB VERB NOUN <EOL> ADV VERB NOUN ne VERB <EOL> NOUN NOUN ueluti NOUN VERB <EOL>
+NOUN sua quae iam AUX nimis ADJ <EOL> cum NOUN VERB NOUN ceu VERB ante ADJ <EOL> VERB NOUN nimium VERB ADJ <EOL>
+et ADJ NOUN quondam NOUN ADJ <EOL> nunc super NOUN NOUN ADJ NOUN VERB <EOL> VERB ADJ nimis ex NOUN NOUN <EOL> NOUN VERB ADJ NOUN ADJ <EOL>
+sic ADJ ADJ NOUN VERB ut NOUN
+NOUN ADJ NOUN tu sola NOUN <EOL> cur mihi ADJ VERB
+cur non me NOUN VERB
+NOUN tunc VERB si NOUN haut tibi VERB
+si sine VERB NOUN quid AUX NOUN VERB
+de nostris NOUN AUX NOUN ADJ
+VERB NOUN omnino mihi ADJ
+nam ADJ NOUN quos tu AUX apud ADJ <EOL> ADV NOUN VERB in omnibus NOUN <EOL> post te VERB pro nostra NOUN -que VERB <EOL> ni ADV VERB citius iam ADJ AUX <EOL>
+sed VERB cum te VERB VERB <EOL> VERB melius et me modo quam mea AUX NOUN <EOL>
+VERB si VERB quo nostros ADJ <EOL> et nobis ADJ nunc VERB NOUN <EOL> quorum NOUN quorum -que NOUN ADJ <EOL> VERB in NOUN VERB tibi NOUN <EOL> AUX NOUN quam VERB talis utrimque <EOL> VERB ut neutrim uestri VERB ADV <EOL> per cuius NOUN tibi nec VERB NOUN <EOL> quam tibi VERB ADJ NOUN ac tibi VERB <EOL>
+PROPN VERB NOUN ADV VERB <EOL> cras VERB NOUN et NOUN <EOL> ut nos VERB quam ADV VERB <EOL>
+quod mihi NOUN VERB si VERB id VERB <EOL> non VERB quod VERB quin ego VERB <EOL>
+VERB NOUN et NOUN VERB <EOL> ad se dum VERB bene VERB -que sibi AUX <EOL> PROPN VERB NOUN ceu bene VERB <EOL> in quo quis -que NOUN VERB sibi VERB <EOL> VERB ADJ unam NOUN NOUN ad VERB <EOL> et NOUN NOUN VERB VERB ADJ unum <EOL> ut super VERB cunctos ibi qui VERB <EOL> sola -que VERB NOUN VERB sic AUX VERB <EOL>
+sic et VERB NOUN NOUN uel VERB <EOL> a NOUN NOUN sed ab ADJ NOUN <EOL> at -que ADJ NOUN meruitue ADJ <EOL>
+dum VERB NOUN VERB VERB <EOL> VERB -que NOUN quos VERB NUM ADJ <EOL> qui non VERB VERB ADV quem neue ADV quem <EOL> donec NOUN VERB id ipsum <EOL>
+tunc PROPN VERB ADJ VERB VERB omnes <EOL> quo sibi VERB propter quod eos VERB <EOL>
+cum VERB VERB NOUN sua ceu sibi VERB nunc VERB mei NOUN uel NOUN
+quanto NOUN mea NOUN quoue NOUN <EOL> VERB multa NOUN at -que mei VERB <EOL> VERB cuncta uobis in NOUN VERB ipsa <EOL>
+nunc se VERB NOUN et NOUN VERB <EOL> nec quidquam VERB VERB ADV VERB ut ante <EOL> quod mihi uel crebro VERB uel id ipse VERB <EOL>
+hinc mihi VERB non VERB VERB
+quare nunc ad uos VERB me VERB <EOL> ut VERB VERB sibi quis -que uel hoc mihi VERB
+nam nimium paucae NOUN AUX mihi ADJ <EOL> nec VERB VERB quo me VERB mihi ADV
+uos mihi VERB super hac NOUN quid VERB <EOL> NOUN nobis si quam VERB VERB <EOL> quae non VERB nostrum NOUN id sed VERB <EOL> NOUN ADJ uel NOUN NOUN <EOL>
+VERB pariter id quam VERB ADV <EOL> ut VERB ADJ de te VERB VERB <EOL> NOUN NOUN NOUN siue ADJ <EOL> quis VERB te PROPN et VERB <EOL>
+VERB quis -que se VERB haec VERB
+unus ADV VERB cui ADJ AUX NOUN <EOL> et ADJ NOUN bene qui AUX ibi ADJ <EOL> is NOUN VERB unam VERB quae tibi ADJ VERB <EOL> NOUN NOUN NOUN ue NOUN <EOL>
+hanc VERB VERB cum VERB ut VERB <EOL> in NOUN nullam quod VERB NOUN <EOL> omnem NOUN tam ADV VERB <EOL> talis quae AUX ut quem -que NOUN VERB <EOL>
+VERB ille VERB quod minime VERB me
+nil minus VERB me quam tale VERB <EOL> quid VERB NOUN <EOL>
+ADV VERB NOUN ubi VERB VERB illis VERB quo NOUN AUX VERB uel VERB
+ADJ non VERB ulli
+nam VERB VERB tibi NOUN ADJ
+PROPN e NOUN VERB in qua AUX ea NOUN
+quam dum VERB ab eo VERB VERB <EOL> ad -que NOUN VERB VERB NOUN illam <EOL> in qua ADJ dum VERB AUX NOUN <EOL> NOUN cum bis ADJ suimet NOUN <EOL> tam bene VERB quid AUX VERB ea multum <EOL> NOUN VERB NOUN NOUN -que VERB <EOL> dum tam ADJ VERB VERB NOUN <EOL> id VERB NOUN VERB NOUN NOUN <EOL> quae VERB sibi dum NOUN VERB illi <EOL>
+haec cum VERB ubi VERB et VERB <EOL> VERB et VERB per totum NOUN et VERB <EOL> nec ADJ VERB quin is AUX qui VERB <EOL> VERB modo quem nimis ADV VERB <EOL>
+us -que ADJ me NOUN omnes VERB <EOL> VERB
+NOUN NOUN VERB VERB VERB <EOL> ad VERB VERB si VERB eum -que VERB <EOL> NOUN quid AUX quae sic VERB AUX <EOL> num ADJ AUX in NOUN cum VERB <EOL>
+VERB VERB per eum quem nil VERB haut se <EOL> NOUN quidquid AUX VERB cur id VERB <EOL> id VERB quia AUX quod AUX sibi VERB <EOL>
+tunc VERB illa tuo VERB NOUN uel NOUN <EOL> ADV si nullus NOUN plus AUX is nisi solus <EOL> ille uel in NOUN mihi NOUN si VERB omnem <EOL> VERB VERB sibi VERB tu ADV illi <EOL>
+VERB VERB NOUN qui VERB ADJ ab hac NOUN VERB cur in eam VERB NOUN <EOL>
+ADV VERB tibi VERB NOUN
+illa VERB cito nunc VERB abs -que VERB modo VERB <EOL>
+NOUN VERB ad PROPN VERB -que
+is simulac VERB VERB VERB ad illum quod bene AUX VERB VERB VERB VERB
+qualiter VERB AUX NOUN VERB
+num bene VERB non VERB AUX mea NOUN
+VERB nunc NOUN ea VERB quid ADJ <EOL> illi quando meum ADJ VERB NOUN
+quod VERB sibi cum ADV VERB omnino VERB mihi NOUN ADJ VERB <EOL> VERB NOUN satis et super at -que NOUN
+VERB tibi quid VERB cum -que VERB <EOL> VERB VERB illi de me de NOUN ADJ <EOL> tantundem ADJ quantum VERB modo NOUN <EOL> et NOUN NOUN quot AUX sibi VERB mea NOUN <EOL> NOUN et NOUN quantum AUX VERB et NOUN <EOL> quando NOUN quo VERB mihi uel VERB <EOL> VERB subito uel ei quid AUX mihi VERB <EOL> VERB VERB tua non sibi NOUN VERB <EOL>
+quae dum VERB de me VERB VERB
+post ADJ VERB nimis ADV et VERB VERB mihi si VERB quid AUX quae NOUN VERB
+VERB per eum qui cuncta VERB ADJ <EOL> numquam VERB penitus quid AUX ea VERB
+nam VERB VERB mihi VERB VERB
+tunc VERB illa tuo VERB NOUN uel NOUN <EOL> ADV si nullus NOUN plus AUX is nisi solus <EOL> ille uel in NOUN mihi NOUN si VERB omnem <EOL> VERB VERB sibi VERB tu ADV illi <EOL>
+nunc NOUN AUX aliam VERB ut mihi VERB NOUN quae non ADV quem VERB VERB super me <EOL>
+sed PROPN NOUN ADV -que VERB VERB <EOL> in PROPN ADJ NOUN ADJ NOUN <EOL>
+inde VERB quod PROPN ualde VERB
+nam -que VERB ei VERB hunc quam VERB
+in NOUN ADJ NOUN quadam VERB NOUN <EOL> hos ADJ -que suum VERB NOUN ADJ <EOL> NOUN uelut NOUN cum PROPN VERB VERB
+ille sed utri -que NOUN NOUN VERB NOUN <EOL> quod -que suum AUX VERB NOUN VERB <EOL>
+post NOUN NOUN ADJ VERB et nimis ADJ <EOL> in cuius ADJ VERB NOUN NOUN <EOL> PROPN VERB circa quem plurima VERB <EOL> in NOUN NOUN ueluti VERB VERB <EOL>
+post ADJ ADJ VERB ADJ NOUN <EOL> NOUN VERB ADJ VERB -que NOUN <EOL> VERB NOUN PROPN mox VERB illi <EOL> ADJ VERB VERB quae non VERB <EOL>
+in NOUN NOUN haec VERB VERB quid VERB hoc omne quod VERB VERB
+et quamuis VERB quod NOUN VERB <EOL> inde ADJ haut ea VERB sed ADJ VERB <EOL> nil sibi sed NOUN VERB ADJ NOUN <EOL> quicquid tantorum PROPN VERB NOUN <EOL>
+post NOUN VERB NOUN illi quae -que VERB <EOL> de NOUN NOUN quibus VERB ADJ <EOL> et de NOUN suum ADJ NOUN VERB <EOL> qualiter in NOUN ADJ VERB hunc VERB <EOL> in NOUN -que suos sub se VERB NOUN <EOL> quod -que NOUN sibi VERB VERB NOUN <EOL> in NOUN -que VERB sibi ADJ NOUN VERB <EOL>
+haec dum VERB subito mox VERB <EOL> at -que VERB me nimium sic VERB <EOL>
+id VERB VERB quia VERB me VERB <EOL> AUX prius NOUN VERB quam NOUN earum <EOL>
+NOUN VERB quam saepe sua NOUN <EOL> te NOUN VERB et ab ipsa NOUN VERB <EOL> et quod in NOUN multum tibi VERB <EOL> ADJ uel ADJ NOUN VERB quod VERB <EOL>
+nunc VERB ADJ VERB AUX quod NOUN <EOL> et VERB ualde NOUN sic VERB <EOL> nobis ambobus umquam siquid VERB <EOL> quod VERB ei VERB quod VERB NOUN
+nam quid VERB qui nil nisi quod VERB VERB
+sed bene seu male VERB tibi VERB sibi NOUN
+VERB et VERB VERB VERB undique VERB <EOL> dum ADJ VERB uix NOUN -que VERB
+cui NOUN ut VERB ad PROPN ADV VERB VERB mihi ADJ VERB quod ADJ tibi VERB
+si me non VERB at -que NOUN mihi VERB <EOL> VERB tibi NOUN ADJ denique NOUN <EOL> et NOUN et VERB qui te cum VERB <EOL> a te VERB ambo per te VERB <EOL>
+NOUN VERB NOUN PROPN sed NOUN PROPN
+NOUN sed NOUN NOUN tunc sola ADJ <EOL> NOUN totius PROPN ADJ NOUN <EOL> AUX tibi VERB sed non sine NOUN ADJ <EOL> ni quod VERB VERB ego quando VERB <EOL>
+PROPN VERB NOUN non VERB AUX a me
+te cito VERB tibi si VERB VERB
+si me non VERB a me ADJ VERB
+quando VERB AUX tuimet nil post mihi VERB
+VERB ut inter nos umquam VERB haec NOUN
+non tam ADJ tunc AUX ne -que ADJ
+inter uos nemo VERB nisi NOUN ADJ
+hinc nec ad NOUN ADJ VERB
+pro cuius -que NOUN AUX eius NOUN NOUN
+non aliter VERB nisi sicut NOUN VERB <EOL> neue NOUN ADJ VERB NOUN VERB <EOL> longius ADJ hinc nos VERB ac uos <EOL>
+non mihi VERB VERB mihi quod bene VERB
+si mihi VERB mea NOUN AUX tamen NOUN
+hanc VERB ex NOUN quae mox VERB illo <EOL> ADJ nimis ADJ sed et NOUN NOUN -que VERB
+quae VERB ante NOUN PROPN VERB NOUN ADJ cunctorum NOUN mihi VERB NOUN <EOL> me -que VERB pro se donec VERB omne <EOL>
