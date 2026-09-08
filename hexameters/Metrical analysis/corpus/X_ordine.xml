@@ -437,6 +437,13 @@
 			<word sy="4T5A5b" wb="CF">funditque</word>
 			<word sy="5c6A6X">cruorem.</word>
 		</line>
+		<line name="52b" metre="H" pattern="SSSS">
+			<word sy="1A1T" wb="DI">Paucis</word>
+			<word sy="2A2T3A" wb="CM">precidam</word>
+			<word sy="3T4A" wb="CM">claudens:</word>
+			<word sy="4T5A" wb="CM">quemvis</word>
+			<word sy="5b5c6A6X">homicidam</word>
+		</line>
 		<line name="53" metre="H" pattern="SSDS">
 			<word sy="1A" wb="CM">Pro</word>
 			<word sy="1T2A" wb="CM">vili</word>
@@ -1629,6 +1636,14 @@
 			<word sy="4c5A5b5c" wb="DI">pericula</word>
 			<word sy="6A6X">praesto,</word>
 		</line>
+		<line name="195b" metre="H" pattern="SDSS">
+			<word sy="1A1T2A" wb="CM">Adducit</word>
+			<word sy="2T3A" wb="CM">vires</word>
+			<word sy="3b3c4A" wb="CM">Israel</word>
+			<word sy="4T" wb="DI">ne</word>
+			<word sy="5A5b" wb="CF">liber</word>
+			<word sy="5c6A6X">abires</word>
+		</line>
 		<line name="196" metre="H" pattern="SSSD">
 			<word sy="1A" wb="CM">Es</word>
 			<word sy="1T2A" wb="CM">cuius</word>
@@ -1690,6 +1705,14 @@
 			<word sy="4A4T" wb="DI">virgam</word>
 			<word sy="5A5b" wb="CF">pandit</word>
 			<word sy="5c6A6X">hiatum</word>
+		</line>
+		<line name="202b" metre="H" pattern="SSSD">
+			<word sy="1A1T" wb="DI">Nutu</word>
+			<word sy="2A2T3A" wb="CM">divino,</word>
+			<word sy="3T4A" wb="CM">facto</word>
+			<word sy="4b4c" wb="DI">quasi</word>
+			<word sy="5A5b5c" wb="DI">pariete</word>
+			<word sy="6A6X">bino</word>
 		</line>
 		<line name="203" metre="H" pattern="DSSS">
 			<word sy="1A" wb="CM">His</word>

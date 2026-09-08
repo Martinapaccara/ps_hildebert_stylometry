@@ -694,14 +694,14 @@
 			<word sy="5A5b" wb="CF">esca</word>
 			<word sy="5c6A6X">suorum,</word>
 		</line>
-		<line name="81" metre="H" pattern="DSSD" feature="hypermeter">
+		<line name="81" metre="H" pattern="DSSD">
 			<word sy="1A1b" wb="CF">Esca</word>
 			<word sy="1c2A" wb="CM">fouens</word>
 			<word sy="2T3A" wb="CM">mentem,</word>
 			<word sy="3T" wb="DI">post</word>
-			<word sy="4A4b" wb="CF">hance</word>
-			<word sy="4c5A" wb="CM">nihil</word>
-			<word sy="5b5c6A6T7X">esurientem,</word>
+			<word sy="4A" wb="CM">hanc</word>
+			<word sy="4b4c" wb="DI">nihil</word>
+			<word sy="5A5b5c6A6X">esurientem,</word>
 		</line>
 		<line name="82" metre="H" pattern="DDSS">
 			<word sy="1A" wb="CM">Nil</word>
@@ -6729,7 +6729,7 @@
 			<word sy="5A" wb="CM">a</word>
 			<word sy="5b5c6A6X">muliere</word>
 		</line>
-		<line name="789" meter="H" pattern="SSDD">
+		<line name="789" metre="H" pattern="SSDD">
 			<word sy="1A1T" wb="DI">votis</word>
 			<word sy="2A2T3A" wb="CM">sinceris</word>
 			<word sy="3b3c" wb="DI">comes</word>
