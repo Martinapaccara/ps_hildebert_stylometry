@@ -1719,11 +1719,11 @@
 			<word sy="4c5A5b" wb="CF">nefanda</word>
 			<word sy="5c6A6X">remansit.</word>
 		</line>
-		<line name="206" metre="H" pattern="SSSS">
-			<word sy="1A1T2A" wb="CM">Israel</word>
-			<word sy="2T3A3T" wb="DI">salvatur,</word>
-			<word sy="4A4T5A" wb="CM">salvator</word>
-			<word sy="5b5c6A6X6X">glorificatur.</word>
+		<line name="206" metre="H" pattern="DSSS">
+			<word sy="1A1b1c" wb="Di">Israel</word>
+			<word sy="2A2T3A" wb="CM">salvatur,</word>
+			<word sy="3T4A4T" wb="CM">salvator</word>
+			<word sy="5A5b5c6A6X">glorificatur.</word>
 		</line>
 		<line name="207" metre="H" pattern="SSSS">
 			<word sy="1A" wb="CM">Huic</word>

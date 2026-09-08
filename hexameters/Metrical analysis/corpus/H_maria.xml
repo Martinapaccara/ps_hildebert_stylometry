@@ -1959,11 +1959,11 @@
 			<word>non</word>
 			<word>benedici,</word>
 		</line>
-		<line name="230" metre="H" pattern="SSDD">
-			<word sy="1A1T2A" wb="CM">Precipit</word>
-			<word sy="2T" wb="DI">ex</word>
-			<word sy="3A3b" wb="CF">more</word>
-			<word sy="3c4A" wb="CM">sacro</word>
+		<line name="230" metre="H" pattern="DSSD">
+			<word sy="1A1b1c" wb="DI">Precipit</word>
+			<word sy="2A" wb="CM">ex</word>
+			<word sy="2T3A" wb="CM">more</word>
+			<word sy="3T4A" wb="CM">sacro</word>
 			<word sy="4b4c" wb="DI">manus</word>
 			<word sy="5A5b" wb="CF">uncta</word>
 			<word sy="5c6A6X">liquore,</word>
@@ -2459,7 +2459,6 @@
 			<word sy="4b" wb="CF">quid</word>
 			<word sy="4c5A5b" wb="CF">habetur</word>
 			<word sy="5c6A6X">honesti,</word>
-			<word sy="6X">iil</word>
 		</line>
 		<line name="288" metre="H" pattern="DDDD">
 			<word sy="1A" wb="CM">Et</word>
@@ -2524,8 +2523,7 @@
 			<word sy="3T" wb="DI">quo</word>
 			<word sy="4A4b4c" wb="DI">tendimus,</word>
 			<word sy="5A5b" wb="CF">unde</word>
-			<word sy="5c6A" wb="CM">uenI.</word>
-			<word sy="6X">mus,</word>
+			<word sy="5c6A6X">uenimus.</word>
 		</line>
 		<line name="295" metre="H" pattern="DDSS">
 			<word sy="1A1b1c" wb="DI">Omnia</word>
@@ -3094,7 +3092,7 @@
 			<word sy="2b2c3A" wb="CM">fuerat,</word>
 			<word sy="3b3c" wb="DI">quia,</word>
 			<word sy="4A4T" wb="DI">quando</word>
-			<word sy="5A" wb="CM">uir</word>
+			<word sy="5A" wb="CM">vir</word>
 			<word sy="5b5c" wb="DI">mihi</word>
 			<word sy="6A6X">deerat,</word>
 		</line>
@@ -3562,7 +3560,6 @@
 			<word sy="4b4c" wb="DI">iuuat</word>
 			<word sy="5A5b" wb="CF">arte</word>
 			<word sy="5c6A6X">iuuentus,</word>
-			<word sy="6X">I</word>
 		</line>
 		<line name="416" metre="H" pattern="SSSS">
 			<word sy="1A" wb="CM">Et</word>
@@ -4727,14 +4724,14 @@
 			<word sy="5A5b5c" wb="DI">menibus</word>
 			<word sy="6A6X">urbis</word>
 		</line>
-		<line name="550" metre="H" pattern="SSSS" feature="hypermeter">
-			<word sy="1A1T" wb="DI">Nitor</word>
-			<word sy="2A" wb="CM">et</word>
-			<word sy="2T3A3T" wb="DI">asportor</word>
-			<word sy="4A" wb="CM">et</word>
-			<word sy="4T5A" wb="CM">cedo</word>
-			<word sy="5b5c6A" wb="CM">profuga</word>
-			<word sy="6T7X">turbis,</word>
+		<line name="550" metre="H" pattern="DSSS">
+			<word sy="1A1b" wb="CF">Nitor</word>
+			<word sy="1c" wb="DI">et</word>
+			<word sy="2A2T3A" wb="CM">asportor</word>
+			<word sy="3T" wb="CM">et</word>
+			<word sy="4A4T" wb="CM">caedo</word>
+			<word sy="5A5b5c" wb="CM">profuga</word>
+			<word sy="6A6X">turbis,</word>
 		</line>
 		<line name="551" metre="H" pattern="DDSS">
 			<word sy="1A1b" wb="CF">Vesper</word>
@@ -5159,11 +5156,11 @@
 			<word sy="5A5b5c" wb="DI">hostia</word>
 			<word sy="6A6X">fio,</word>
 		</line>
-		<line name="601" metre="H" pattern="DDDS">
+		<line name="601" metre="H" pattern="DSDD">
 			<word sy="1A1b" wb="CF">Quero</word>
-			<word sy="1c2A2b2c" wb="DI">reformari,</word>
-			<word sy="3A3b" wb="CF">precor</word>
-			<word sy="3c4A4T5A5b" wb="CF">Inucterata</word>
+			<word sy="1c2A2T3A" wb="CM">reformari,</word>
+			<word sy="3b3b" wb="DI">precor</word>
+			<word sy="4A4b4c5A5b" wb="CF">Inueterata</word>
 			<word sy="5c6A6X">Nouari.</word>
 		</line>
 		<line name="602" metre="H" pattern="DDDS">
@@ -5446,8 +5443,8 @@
 			<word sy="2c3A" wb="CM">fere</word>
 			<word sy="3b3c" wb="DI">fero,</word>
 			<word sy="4A" wb="CM">quot</word>
-			<word sy="4T5A" wb="CM">probra</word>
-			<word sy="5b5c6A6X6X">preteriere.</word>
+			<word sy="4b4c" wb="CM">probra</word>
+			<word sy="5A5b5c6A6X">preteriere.</word>
 		</line>
 		<line name="637" metre="H" pattern="SSDS">
 			<word sy="1A1T" wb="DI">Quidquid</word>
@@ -6673,7 +6670,6 @@
 			<word sy="4A4T" wb="DI">olim</word>
 			<word sy="5A5b5c" wb="DI">Parcere</word>
 			<word sy="6A6X">querit</word>
-			<word sy="6X">ur.</word>
 		</line>
 		<line name="782" metre="H" pattern="not scanned">
 			<word>Ista</word>
@@ -6733,14 +6729,14 @@
 			<word sy="5A" wb="CM">a</word>
 			<word sy="5b5c6A6X">muliere</word>
 		</line>
-		<line name="789" metre="H" pattern="SSSD">
-			<word sy="1A1T" wb="DI">Votis</word>
-			<word sy="2A2T" wb="DI">sincers</word>
-			<word sy="3A3T" wb="DI">comes</word>
+		<line name="789" meter="H" pattern="SSDD">
+			<word sy="1A1T" wb="DI">votis</word>
+			<word sy="2A2T3A" wb="CM">sinceris</word>
+			<word sy="3b3c" wb="DI">comes</word>
 			<word sy="4A" wb="CM">et</word>
 			<word sy="4b4c" wb="DI">memor</word>
 			<word sy="5A" wb="CM">est</word>
-			<word sy="5b5c6A6X">mulieris,</word>
+			<word sy="5b5c6A6X">mulieris</word>
 		</line>
 		<line name="790" metre="H" pattern="DSSD">
 			<word sy="1A1b1c" wb="DI">Obsidet</word>
